@@ -32,9 +32,11 @@ export function StudentSelector() {
     const handleStorage = () => refresh();
     window.addEventListener('storage', handleStorage);
     window.addEventListener('active-student-changed', handleStorage);
+    window.addEventListener('focus', handleStorage);
     return () => {
       window.removeEventListener('storage', handleStorage);
       window.removeEventListener('active-student-changed', handleStorage);
+      window.removeEventListener('focus', handleStorage);
     };
   }, []);
 

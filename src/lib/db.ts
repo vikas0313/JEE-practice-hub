@@ -233,7 +233,40 @@ export function getStudentProfile(studentId?: string): Profile | null {
     const active = students.find(p => p.id === activeId);
     if (active) return active;
   }
-  return students.find(p => p.status === 'active' || p.status === 'approved') || students[0] || null;
+
+  // If no explicit student selected, prioritize student with most recent activity or newest registration
+  const activeStudents = students.filter(p => p.status === 'active' || p.status === 'approved');
+  if (activeStudents.length === 0) return students[0] || null;
+
+  // Check if any active student has responses or visits
+  const allResponses = getTable<{ student_id: string; submitted_at?: string; created_at?: string }>('responses');
+  const allVisits = getTable<{ student_id: string; ended_at?: string; started_at?: string }>('visits');
+
+  let bestStudent = activeStudents[activeStudents.length - 1]; // Default to newest registered
+  let latestActivityTime = 0;
+
+  for (const s of activeStudents) {
+    for (const r of allResponses) {
+      if (r.student_id === s.id) {
+        const t = new Date(r.submitted_at || r.created_at || 0).getTime();
+        if (t > latestActivityTime) {
+          latestActivityTime = t;
+          bestStudent = s;
+        }
+      }
+    }
+    for (const v of allVisits) {
+      if (v.student_id === s.id) {
+        const t = new Date(v.ended_at || v.started_at || 0).getTime();
+        if (t > latestActivityTime) {
+          latestActivityTime = t;
+          bestStudent = s;
+        }
+      }
+    }
+  }
+
+  return bestStudent;
 }
 
 export function getAllStudents(): Profile[] {

@@ -60,19 +60,40 @@ export default function MonitorDashboard() {
   }, []);
 
   const allStudents = useMemo(() => getApprovedStudents(), [activeStudentId, dataVersion]);
-
-  // Ensure an active student is selected if none set
-  useEffect(() => {
-    if ((!activeStudentId || !allStudents.some(s => s.id === activeStudentId)) && allStudents.length > 0) {
-      const targetId = allStudents[allStudents.length - 1].id;
-      setActiveSelectedStudentId(targetId);
-      setActiveStudentId(targetId);
-    }
-  }, [activeStudentId, allStudents]);
-
   const student = useMemo(() => getStudentProfile(activeStudentId || undefined), [activeStudentId, dataVersion]);
   const pendingStudents = useMemo(() => getPendingStudents(), [dataVersion]);
   const settings = useMemo(() => getSettings(), [dataVersion]);
+
+  // Ensure an active student is selected, prioritizing students who actually have practice activity
+  useEffect(() => {
+    if (allStudents.length === 0) return;
+
+    if (!activeStudentId || !allStudents.some(s => s.id === activeStudentId)) {
+      const best = getStudentProfile();
+      const targetId = best ? best.id : allStudents[allStudents.length - 1].id;
+      setActiveSelectedStudentId(targetId);
+      setActiveStudentId(targetId);
+      return;
+    }
+
+    // If current selected student has 0 responses and 0 visits, but another active student has activity, auto-switch to active student
+    if (student) {
+      const currentResponses = getResponsesByStudent(student.id);
+      const currentVisits = getAllVisits().filter(v => v.student_id === student.id);
+      if (currentResponses.length === 0 && currentVisits.length === 0) {
+        const studentWithActivity = allStudents.find(s => {
+          if (s.id === student.id) return false;
+          const r = getResponsesByStudent(s.id);
+          const v = getAllVisits().filter(visit => visit.student_id === s.id);
+          return r.length > 0 || v.length > 0;
+        });
+        if (studentWithActivity) {
+          setActiveSelectedStudentId(studentWithActivity.id);
+          setActiveStudentId(studentWithActivity.id);
+        }
+      }
+    }
+  }, [activeStudentId, allStudents, student]);
   const [notices, setNotices] = useState(() => getMonitorNotices().filter(n => !n.read));
 
   const handleDismissNotice = (id: string) => {
