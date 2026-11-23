@@ -108,6 +108,12 @@ function setTable<T>(name: string, data: T[]): void {
     lastRawString[name] = serialized;
     lastParsedData[name] = data;
     localStorage.setItem(`jph_${name}`, serialized);
+    if (typeof window !== 'undefined' && typeof window.dispatchEvent === 'function') {
+      window.dispatchEvent(new Event('storage'));
+      if (name === 'profiles' || name === 'responses' || name === 'visits' || name === 'attempts') {
+        window.dispatchEvent(new Event('active-student-changed'));
+      }
+    }
   } catch {
     // Graceful fallback
   }

@@ -40,7 +40,9 @@ export default function Requests() {
     const handleSync = () => loadData();
     window.addEventListener('storage', handleSync);
     window.addEventListener('active-student-changed', handleSync);
+    const interval = setInterval(loadData, 3000);
     return () => {
+      clearInterval(interval);
       window.removeEventListener('storage', handleSync);
       window.removeEventListener('active-student-changed', handleSync);
     };
@@ -50,9 +52,13 @@ export default function Requests() {
     if (!user) return;
     const res = approveStudent(student.id, user.id);
     if (res.ok) {
-      setActionSuccess(`Approved ${student.first_name || student.name || student.email}. They can now log in and practice.`);
+      setActionSuccess(`Approved ${student.first_name || student.name || student.email}. They can now practice.`);
       loadData();
       window.dispatchEvent(new Event('storage'));
+      window.dispatchEvent(new Event('active-student-changed'));
+      setTimeout(() => setActionSuccess(null), 4000);
+    } else {
+      setActionSuccess(`Approval failed: ${res.error || 'Unknown error'}`);
       setTimeout(() => setActionSuccess(null), 4000);
     }
   };
