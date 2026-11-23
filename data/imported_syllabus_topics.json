@@ -1,0 +1,3682 @@
+[
+  {
+    "id": "TOPIC-PHY-024-001",
+    "chapter_external_id": "PHY-024",
+    "name": "Ac Circuits And Power In Ac Circuits",
+    "slug": "ac-circuits-and-power-in-ac-circuits",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-024-002",
+    "chapter_external_id": "PHY-024",
+    "name": "Ac Generator And Transformer",
+    "slug": "ac-generator-and-transformer",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-024-003",
+    "chapter_external_id": "PHY-024",
+    "name": "Growth And Decay Of Current",
+    "slug": "growth-and-decay-of-current",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-024-004",
+    "chapter_external_id": "PHY-024",
+    "name": "Quality Factor",
+    "slug": "quality-factor",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-029-001",
+    "chapter_external_id": "PHY-029",
+    "name": "Bohrs Model And Hydrogen Spectrum",
+    "slug": "bohrs-model-and-hydrogen-spectrum",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-029-002",
+    "chapter_external_id": "PHY-029",
+    "name": "Nucleus And Radioactivity",
+    "slug": "nucleus-and-radioactivity",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-029-003",
+    "chapter_external_id": "PHY-029",
+    "name": "Nuclear Fission And Fusion And Binding Energy",
+    "slug": "nuclear-fission-and-fusion-and-binding-energy",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-029-004",
+    "chapter_external_id": "PHY-029",
+    "name": "Alpha Particle Scattering And Rutherford Model Of Atom",
+    "slug": "alpha-particle-scattering-and-rutherford-model-of-atom",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-019-001",
+    "chapter_external_id": "PHY-019",
+    "name": "Combination Of Capacitors",
+    "slug": "combination-of-capacitors",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-019-002",
+    "chapter_external_id": "PHY-019",
+    "name": "Parallel Plate Capacitor",
+    "slug": "parallel-plate-capacitor",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-019-003",
+    "chapter_external_id": "PHY-019",
+    "name": "Capacitors With Dielectric",
+    "slug": "capacitors-with-dielectric",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-019-004",
+    "chapter_external_id": "PHY-019",
+    "name": "Capacitance",
+    "slug": "capacitance",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-019-005",
+    "chapter_external_id": "PHY-019",
+    "name": "Electric Energy Stored By Capacitor",
+    "slug": "electric-energy-stored-by-capacitor",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-019-006",
+    "chapter_external_id": "PHY-019",
+    "name": "Capacitor In Circuit",
+    "slug": "capacitor-in-circuit",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-019-007",
+    "chapter_external_id": "PHY-019",
+    "name": "Rc Circuit",
+    "slug": "rc-circuit",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-009-001",
+    "chapter_external_id": "PHY-009",
+    "name": "Motion Of Center Of Mass",
+    "slug": "motion-of-center-of-mass",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-009-002",
+    "chapter_external_id": "PHY-009",
+    "name": "Collision",
+    "slug": "collision",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-009-003",
+    "chapter_external_id": "PHY-009",
+    "name": "Center Of Mass Of Continuous Mass Distribution",
+    "slug": "center-of-mass-of-continuous-mass-distribution",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-009-004",
+    "chapter_external_id": "PHY-009",
+    "name": "Spring Mass System",
+    "slug": "spring-mass-system",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-009-005",
+    "chapter_external_id": "PHY-009",
+    "name": "Center Of Mass Of Discrete Particles",
+    "slug": "center-of-mass-of-discrete-particles",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-009-006",
+    "chapter_external_id": "PHY-009",
+    "name": "Impulse Momentum Theorem",
+    "slug": "impulse-momentum-theorem",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-006-001",
+    "chapter_external_id": "PHY-006",
+    "name": "Non Uniform Circular Motion",
+    "slug": "non-uniform-circular-motion",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-006-002",
+    "chapter_external_id": "PHY-006",
+    "name": "Uniform Circular Motion",
+    "slug": "uniform-circular-motion",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-032-001",
+    "chapter_external_id": "PHY-032",
+    "name": "Modulation And Demodulation",
+    "slug": "modulation-and-demodulation",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-032-002",
+    "chapter_external_id": "PHY-032",
+    "name": "Elements Of Communication System And Propagation Of Em Wave",
+    "slug": "elements-of-communication-system-and-propagation-of-em-wave",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-001",
+    "chapter_external_id": "PHY-020",
+    "name": "Electric Cell Or Battery",
+    "slug": "electric-cell-or-battery",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-002",
+    "chapter_external_id": "PHY-020",
+    "name": "Resistance And Resistivity",
+    "slug": "resistance-and-resistivity",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-003",
+    "chapter_external_id": "PHY-020",
+    "name": "Potentiometer",
+    "slug": "potentiometer",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-004",
+    "chapter_external_id": "PHY-020",
+    "name": "Kirchhoffs Circuit Laws",
+    "slug": "kirchhoffs-circuit-laws",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-005",
+    "chapter_external_id": "PHY-020",
+    "name": "Wheatstone Bridge",
+    "slug": "wheatstone-bridge",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-006",
+    "chapter_external_id": "PHY-020",
+    "name": "Galvanometer Voltmeter And Ammeter",
+    "slug": "galvanometer-voltmeter-and-ammeter",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-007",
+    "chapter_external_id": "PHY-020",
+    "name": "Combination Of Resistances",
+    "slug": "combination-of-resistances",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-008",
+    "chapter_external_id": "PHY-020",
+    "name": "Ohms Law",
+    "slug": "ohms-law",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-009",
+    "chapter_external_id": "PHY-020",
+    "name": "Electric Current Current Density And Drift Velocity",
+    "slug": "electric-current-current-density-and-drift-velocity",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-010",
+    "chapter_external_id": "PHY-020",
+    "name": "Electric Power And Heating Effect Of Current",
+    "slug": "electric-power-and-heating-effect-of-current",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-020-011",
+    "chapter_external_id": "PHY-020",
+    "name": "Meter Bridge",
+    "slug": "meter-bridge",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-028-001",
+    "chapter_external_id": "PHY-028",
+    "name": "Photoelectric Effect",
+    "slug": "photoelectric-effect",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-028-002",
+    "chapter_external_id": "PHY-028",
+    "name": "Matter Waves Davisson And Germer Experiment",
+    "slug": "matter-waves-davisson-and-germer-experiment",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-028-003",
+    "chapter_external_id": "PHY-028",
+    "name": "Particle Nature Of Light The Photon",
+    "slug": "particle-nature-of-light-the-photon",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-028-004",
+    "chapter_external_id": "PHY-028",
+    "name": "Davisson And Germer Experiment",
+    "slug": "davisson-and-germer-experiment",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-023-001",
+    "chapter_external_id": "PHY-023",
+    "name": "Magnetic Flux Faradays And Lenzs Laws",
+    "slug": "magnetic-flux-faradays-and-lenzs-laws",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-023-002",
+    "chapter_external_id": "PHY-023",
+    "name": "Inductance Self And Mutual",
+    "slug": "inductance-self-and-mutual",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-023-003",
+    "chapter_external_id": "PHY-023",
+    "name": "Motional Emf And Eddy Current",
+    "slug": "motional-emf-and-eddy-current",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-025-001",
+    "chapter_external_id": "PHY-025",
+    "name": "Displacement Current And Properties Of Em Waves",
+    "slug": "displacement-current-and-properties-of-em-waves",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-025-002",
+    "chapter_external_id": "PHY-025",
+    "name": "Em Spectrum",
+    "slug": "em-spectrum",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-031-001",
+    "chapter_external_id": "PHY-031",
+    "name": "Digital Circuits",
+    "slug": "digital-circuits",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-031-002",
+    "chapter_external_id": "PHY-031",
+    "name": "Semiconductor And P N Junction Diode",
+    "slug": "semiconductor-and-p-n-junction-diode",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-031-003",
+    "chapter_external_id": "PHY-031",
+    "name": "Transistors",
+    "slug": "transistors",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-018-001",
+    "chapter_external_id": "PHY-018",
+    "name": "Electric Flux And Gauss Law",
+    "slug": "electric-flux-and-gauss-law",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-018-002",
+    "chapter_external_id": "PHY-018",
+    "name": "Electric Dipole",
+    "slug": "electric-dipole",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-018-003",
+    "chapter_external_id": "PHY-018",
+    "name": "Electric Charges And Coulombs Law",
+    "slug": "electric-charges-and-coulombs-law",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-018-004",
+    "chapter_external_id": "PHY-018",
+    "name": "Electric Potential Energy And Electric Potential",
+    "slug": "electric-potential-energy-and-electric-potential",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-018-005",
+    "chapter_external_id": "PHY-018",
+    "name": "Electric Field And Electric Field Intensity",
+    "slug": "electric-field-and-electric-field-intensity",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-026-001",
+    "chapter_external_id": "PHY-026",
+    "name": "Lenses",
+    "slug": "lenses",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-026-002",
+    "chapter_external_id": "PHY-026",
+    "name": "Refraction Tir And Prism",
+    "slug": "refraction-tir-and-prism",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-026-003",
+    "chapter_external_id": "PHY-026",
+    "name": "Reflection Of Light",
+    "slug": "reflection-of-light",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-026-004",
+    "chapter_external_id": "PHY-026",
+    "name": "Optical Instruments",
+    "slug": "optical-instruments",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-011-001",
+    "chapter_external_id": "PHY-011",
+    "name": "Keplers Law And Universal Law Of Gravitation",
+    "slug": "keplers-law-and-universal-law-of-gravitation",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-011-002",
+    "chapter_external_id": "PHY-011",
+    "name": "Escape Speed And Motion Of Satellites",
+    "slug": "escape-speed-and-motion-of-satellites",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-011-003",
+    "chapter_external_id": "PHY-011",
+    "name": "Acceleration Due To Gravity And Its Variation",
+    "slug": "acceleration-due-to-gravity-and-its-variation",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-011-004",
+    "chapter_external_id": "PHY-011",
+    "name": "Gravitational Potential And Gravitational Potential Energy",
+    "slug": "gravitational-potential-and-gravitational-potential-energy",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-001",
+    "chapter_external_id": "PHY-014",
+    "name": "Heat Engine Second Law Of Thermodynamics And Carnot Engine",
+    "slug": "heat-engine-second-law-of-thermodynamics-and-carnot-engine",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-002",
+    "chapter_external_id": "PHY-014",
+    "name": "Thermodynamics Process",
+    "slug": "thermodynamics-process",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-003",
+    "chapter_external_id": "PHY-014",
+    "name": "Heat Transfer",
+    "slug": "heat-transfer",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-004",
+    "chapter_external_id": "PHY-014",
+    "name": "Kinetic Theory Of Gases And Gas Laws",
+    "slug": "kinetic-theory-of-gases-and-gas-laws",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-005",
+    "chapter_external_id": "PHY-014",
+    "name": "Specific Heat Capacity Calorimetry And Change Of State",
+    "slug": "specific-heat-capacity-calorimetry-and-change-of-state",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-006",
+    "chapter_external_id": "PHY-014",
+    "name": "Zeroth And First Law Of Thermodynamics",
+    "slug": "zeroth-and-first-law-of-thermodynamics",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-007",
+    "chapter_external_id": "PHY-014",
+    "name": "Degree Of Freedom And Law Of Equipartition Of Energy",
+    "slug": "degree-of-freedom-and-law-of-equipartition-of-energy",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-014-008",
+    "chapter_external_id": "PHY-014",
+    "name": "Thermometry And Thermal Expansion",
+    "slug": "thermometry-and-thermal-expansion",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-007-001",
+    "chapter_external_id": "PHY-007",
+    "name": "Newtons Laws Of Motion",
+    "slug": "newtons-laws-of-motion",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-007-002",
+    "chapter_external_id": "PHY-007",
+    "name": "Motion On An Inclined Plane",
+    "slug": "motion-on-an-inclined-plane",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-007-003",
+    "chapter_external_id": "PHY-007",
+    "name": "Equilibrium Of A Particle",
+    "slug": "equilibrium-of-a-particle",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-007-004",
+    "chapter_external_id": "PHY-007",
+    "name": "Friction Force",
+    "slug": "friction-force",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-007-005",
+    "chapter_external_id": "PHY-007",
+    "name": "Motion Of Connected Bodies",
+    "slug": "motion-of-connected-bodies",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-022-001",
+    "chapter_external_id": "PHY-022",
+    "name": "Magnetic Properties Of Matter",
+    "slug": "magnetic-properties-of-matter",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-022-002",
+    "chapter_external_id": "PHY-022",
+    "name": "Bar Magnet Or Magnetic Dipole",
+    "slug": "bar-magnet-or-magnetic-dipole",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-022-003",
+    "chapter_external_id": "PHY-022",
+    "name": "Earth Magnetism",
+    "slug": "earth-magnetism",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-021-001",
+    "chapter_external_id": "PHY-021",
+    "name": "Amperes Circuital Law",
+    "slug": "amperes-circuital-law",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-021-002",
+    "chapter_external_id": "PHY-021",
+    "name": "Biot Savarts Law And Magnetic Field Due To Current Carrying Wire",
+    "slug": "biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-021-003",
+    "chapter_external_id": "PHY-021",
+    "name": "Motion Of Charged Particle Inside Magnetic Field",
+    "slug": "motion-of-charged-particle-inside-magnetic-field",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-021-004",
+    "chapter_external_id": "PHY-021",
+    "name": "Moving Coil Galvanometer",
+    "slug": "moving-coil-galvanometer",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-021-005",
+    "chapter_external_id": "PHY-021",
+    "name": "Force And Torque On Current Carrying Conductor",
+    "slug": "force-and-torque-on-current-carrying-conductor",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-021-006",
+    "chapter_external_id": "PHY-021",
+    "name": "Magnetic Field Of Moving Charge",
+    "slug": "magnetic-field-of-moving-charge",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-021-007",
+    "chapter_external_id": "PHY-021",
+    "name": "Magnetic Moment",
+    "slug": "magnetic-moment",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-005-001",
+    "chapter_external_id": "PHY-005",
+    "name": "Projectile Motion",
+    "slug": "projectile-motion",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-005-002",
+    "chapter_external_id": "PHY-005",
+    "name": "Relative Motion In Two Dimension",
+    "slug": "relative-motion-in-two-dimension",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-005-003",
+    "chapter_external_id": "PHY-005",
+    "name": "River Boat Problems",
+    "slug": "river-boat-problems",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-005-004",
+    "chapter_external_id": "PHY-005",
+    "name": "Rain Man Problems",
+    "slug": "rain-man-problems",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-001",
+    "chapter_external_id": "PHY-004",
+    "name": "Relative Motion In One Dimension",
+    "slug": "relative-motion-in-one-dimension",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-002",
+    "chapter_external_id": "PHY-004",
+    "name": "Graph Based Problem",
+    "slug": "graph-based-problem",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-003",
+    "chapter_external_id": "PHY-004",
+    "name": "Average Velocity And Instantaneous Velocity",
+    "slug": "average-velocity-and-instantaneous-velocity",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-004",
+    "chapter_external_id": "PHY-004",
+    "name": "Variable Acceleration Motion",
+    "slug": "variable-acceleration-motion",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-005",
+    "chapter_external_id": "PHY-004",
+    "name": "Motion Under Gravity",
+    "slug": "motion-under-gravity",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-006",
+    "chapter_external_id": "PHY-004",
+    "name": "Constant Acceleration Motion",
+    "slug": "constant-acceleration-motion",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-007",
+    "chapter_external_id": "PHY-004",
+    "name": "Average Speed And Instantaneous Speed",
+    "slug": "average-speed-and-instantaneous-speed",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-004-008",
+    "chapter_external_id": "PHY-004",
+    "name": "Average Acceleration And Instantaneous Acceleration",
+    "slug": "average-acceleration-and-instantaneous-acceleration",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-012-001",
+    "chapter_external_id": "PHY-012",
+    "name": "Mechanical Properties Of Solids",
+    "slug": "mechanical-properties-of-solids",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-012-002",
+    "chapter_external_id": "PHY-012",
+    "name": "Surface Tension Excess Pressure And Capillarity",
+    "slug": "surface-tension-excess-pressure-and-capillarity",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-012-003",
+    "chapter_external_id": "PHY-012",
+    "name": "Fluid Flow Bernoullis Principle And Viscosity",
+    "slug": "fluid-flow-bernoullis-principle-and-viscosity",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-012-004",
+    "chapter_external_id": "PHY-012",
+    "name": "Pressure Density Pascals Law And Archimedes Principle",
+    "slug": "pressure-density-pascals-law-and-archimedes-principle",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-012-005",
+    "chapter_external_id": "PHY-012",
+    "name": "Stress Strain Curve Thermal Stress And Elastic Pe",
+    "slug": "stress-strain-curve-thermal-stress-and-elastic-pe",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-012-006",
+    "chapter_external_id": "PHY-012",
+    "name": "Newtons Law Of Cooling",
+    "slug": "newtons-law-of-cooling",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-010-001",
+    "chapter_external_id": "PHY-010",
+    "name": "Torque",
+    "slug": "torque",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-010-002",
+    "chapter_external_id": "PHY-010",
+    "name": "Moment Of Inertia",
+    "slug": "moment-of-inertia",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-010-003",
+    "chapter_external_id": "PHY-010",
+    "name": "Angular Momentum",
+    "slug": "angular-momentum",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-010-004",
+    "chapter_external_id": "PHY-010",
+    "name": "Combined Translational And Rotational Motion",
+    "slug": "combined-translational-and-rotational-motion",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-010-005",
+    "chapter_external_id": "PHY-010",
+    "name": "Rotational Motion About Fixed Axis Of Rigid Body",
+    "slug": "rotational-motion-about-fixed-axis-of-rigid-body",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-010-006",
+    "chapter_external_id": "PHY-010",
+    "name": "Angular Momentum Conservation",
+    "slug": "angular-momentum-conservation",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-016-001",
+    "chapter_external_id": "PHY-016",
+    "name": "Simple Harmonic Motion",
+    "slug": "simple-harmonic-motion",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-016-002",
+    "chapter_external_id": "PHY-016",
+    "name": "Some Systems Of Executing Shm",
+    "slug": "some-systems-of-executing-shm",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-001-001",
+    "chapter_external_id": "PHY-001",
+    "name": "Dimensions Of Physical Quantities",
+    "slug": "dimensions-of-physical-quantities",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-001-002",
+    "chapter_external_id": "PHY-001",
+    "name": "Errors In Measurement",
+    "slug": "errors-in-measurement",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-001-003",
+    "chapter_external_id": "PHY-001",
+    "name": "Vernier Calipers",
+    "slug": "vernier-calipers",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-001-004",
+    "chapter_external_id": "PHY-001",
+    "name": "Screw Gauge",
+    "slug": "screw-gauge",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-001-005",
+    "chapter_external_id": "PHY-001",
+    "name": "Unit Of Physical Quantities",
+    "slug": "unit-of-physical-quantities",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-083-001",
+    "chapter_external_id": "MAT-083",
+    "name": "Dot Product And Cross Product",
+    "slug": "dot-product-and-cross-product",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-083-002",
+    "chapter_external_id": "MAT-083",
+    "name": "Vector Arithmetic",
+    "slug": "vector-arithmetic",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-083-003",
+    "chapter_external_id": "MAT-083",
+    "name": "Vector Projections",
+    "slug": "vector-projections",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-027-001",
+    "chapter_external_id": "PHY-027",
+    "name": "Huygens Principle And Interference Of Light",
+    "slug": "huygens-principle-and-interference-of-light",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-027-002",
+    "chapter_external_id": "PHY-027",
+    "name": "Polarisation",
+    "slug": "polarisation",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-027-003",
+    "chapter_external_id": "PHY-027",
+    "name": "Diffraction And Doppler Effect Of Light",
+    "slug": "diffraction-and-doppler-effect-of-light",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-017-001",
+    "chapter_external_id": "PHY-017",
+    "name": "Basic Of Waves And Progressive Waves",
+    "slug": "basic-of-waves-and-progressive-waves",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-017-002",
+    "chapter_external_id": "PHY-017",
+    "name": "Superposition And Reflection Of Waves",
+    "slug": "superposition-and-reflection-of-waves",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-017-003",
+    "chapter_external_id": "PHY-017",
+    "name": "Doppler Effect",
+    "slug": "doppler-effect",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-008-001",
+    "chapter_external_id": "PHY-008",
+    "name": "Power",
+    "slug": "power",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-008-002",
+    "chapter_external_id": "PHY-008",
+    "name": "Work",
+    "slug": "work",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-PHY-008-003",
+    "chapter_external_id": "PHY-008",
+    "name": "Energy",
+    "slug": "energy",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-055-001",
+    "chapter_external_id": "CHE-055",
+    "name": "Properties Preparation And Uses Of Phenols",
+    "slug": "properties-preparation-and-uses-of-phenols",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-055-002",
+    "chapter_external_id": "CHE-055",
+    "name": "Properties Preparation And Uses Of Ethers",
+    "slug": "properties-preparation-and-uses-of-ethers",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-055-003",
+    "chapter_external_id": "CHE-055",
+    "name": "Properties Preparation And Uses Of Alcohols",
+    "slug": "properties-preparation-and-uses-of-alcohols",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-056-001",
+    "chapter_external_id": "CHE-056",
+    "name": "Reactions Involving Aldehydes",
+    "slug": "reactions-involving-aldehydes",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-056-002",
+    "chapter_external_id": "CHE-056",
+    "name": "Chemical Reactions For Aldehydes And Ketones",
+    "slug": "chemical-reactions-for-aldehydes-and-ketones",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-056-003",
+    "chapter_external_id": "CHE-056",
+    "name": "Tests For Aldehyde And Ketones",
+    "slug": "tests-for-aldehyde-and-ketones",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-056-004",
+    "chapter_external_id": "CHE-056",
+    "name": "Preparation Properties And Uses Of Carboxylic Acids",
+    "slug": "preparation-properties-and-uses-of-carboxylic-acids",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-056-005",
+    "chapter_external_id": "CHE-056",
+    "name": "Preparation Methods For Both Aldehydes And Ketones",
+    "slug": "preparation-methods-for-both-aldehydes-and-ketones",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-056-006",
+    "chapter_external_id": "CHE-056",
+    "name": "Method Of Preparation For Aldehydes",
+    "slug": "method-of-preparation-for-aldehydes",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-052-001",
+    "chapter_external_id": "CHE-052",
+    "name": "Electron Displacement Effect",
+    "slug": "electron-displacement-effect",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-052-002",
+    "chapter_external_id": "CHE-052",
+    "name": "Purification Of Organic Compounds",
+    "slug": "purification-of-organic-compounds",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-052-003",
+    "chapter_external_id": "CHE-052",
+    "name": "Iupac Nomenclature",
+    "slug": "iupac-nomenclature",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-052-004",
+    "chapter_external_id": "CHE-052",
+    "name": "Isomerism",
+    "slug": "isomerism",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-052-005",
+    "chapter_external_id": "CHE-052",
+    "name": "Stability Of Intermediate",
+    "slug": "stability-of-intermediate",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-052-006",
+    "chapter_external_id": "CHE-052",
+    "name": "Aromaticity",
+    "slug": "aromaticity",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-052-007",
+    "chapter_external_id": "CHE-052",
+    "name": "Acid And Base Strength",
+    "slug": "acid-and-base-strength",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-058-001",
+    "chapter_external_id": "CHE-058",
+    "name": "Proteins And Enzymes",
+    "slug": "proteins-and-enzymes",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-058-002",
+    "chapter_external_id": "CHE-058",
+    "name": "Carbohydrates",
+    "slug": "carbohydrates",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-058-003",
+    "chapter_external_id": "CHE-058",
+    "name": "Vitamins And Nucleic Acids",
+    "slug": "vitamins-and-nucleic-acids",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-001",
+    "chapter_external_id": "CHE-044",
+    "name": "Lewis Theory",
+    "slug": "lewis-theory",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-002",
+    "chapter_external_id": "CHE-044",
+    "name": "Hybridization And Vsepr Theory",
+    "slug": "hybridization-and-vsepr-theory",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-003",
+    "chapter_external_id": "CHE-044",
+    "name": "Dipole Moment",
+    "slug": "dipole-moment",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-004",
+    "chapter_external_id": "CHE-044",
+    "name": "Molecular Orbital Theory",
+    "slug": "molecular-orbital-theory",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-005",
+    "chapter_external_id": "CHE-044",
+    "name": "Bond Parameters",
+    "slug": "bond-parameters",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-006",
+    "chapter_external_id": "CHE-044",
+    "name": "Hydrolysis",
+    "slug": "hydrolysis",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-007",
+    "chapter_external_id": "CHE-044",
+    "name": "Hydrogen Bonding",
+    "slug": "hydrogen-bonding",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-008",
+    "chapter_external_id": "CHE-044",
+    "name": "Ionic Bond",
+    "slug": "ionic-bond",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-009",
+    "chapter_external_id": "CHE-044",
+    "name": "Valence Bond Theory",
+    "slug": "valence-bond-theory",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-010",
+    "chapter_external_id": "CHE-044",
+    "name": "Resonance",
+    "slug": "resonance",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-011",
+    "chapter_external_id": "CHE-044",
+    "name": "Covalent And Co Ordinate Bond",
+    "slug": "covalent-and-co-ordinate-bond",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-044-012",
+    "chapter_external_id": "CHE-044",
+    "name": "Index",
+    "slug": "index",
+    "sort_order": 12,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-039-001",
+    "chapter_external_id": "CHE-039",
+    "name": "Le Chateliers Principle And Factors Affecting Chemical Equilibrium",
+    "slug": "le-chateliers-principle-and-factors-affecting-chemical-equilibrium",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-039-002",
+    "chapter_external_id": "CHE-039",
+    "name": "Chemical Equilibrium Law Of Mass Action And Equilibrium Constant",
+    "slug": "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-039-003",
+    "chapter_external_id": "CHE-039",
+    "name": "Solubility Product And Common Ion Effect",
+    "slug": "solubility-product-and-common-ion-effect",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-039-004",
+    "chapter_external_id": "CHE-039",
+    "name": "Ostwalds Dilution Law And Concept Of Acid And Base",
+    "slug": "ostwalds-dilution-law-and-concept-of-acid-and-base",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-039-005",
+    "chapter_external_id": "CHE-039",
+    "name": "Ph Buffer And Indicators",
+    "slug": "ph-buffer-and-indicators",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-039-006",
+    "chapter_external_id": "CHE-039",
+    "name": "Salt Hydrolysis",
+    "slug": "salt-hydrolysis",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-041-001",
+    "chapter_external_id": "CHE-041",
+    "name": "Integrated Rate Law Equations",
+    "slug": "integrated-rate-law-equations",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-041-002",
+    "chapter_external_id": "CHE-041",
+    "name": "Rate Laws And Rate Constant",
+    "slug": "rate-laws-and-rate-constant",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-041-003",
+    "chapter_external_id": "CHE-041",
+    "name": "Nuclear Chemistry",
+    "slug": "nuclear-chemistry",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-041-004",
+    "chapter_external_id": "CHE-041",
+    "name": "Arrhenius Equation",
+    "slug": "arrhenius-equation",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-041-005",
+    "chapter_external_id": "CHE-041",
+    "name": "Rate Of Reaction",
+    "slug": "rate-of-reaction",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-041-006",
+    "chapter_external_id": "CHE-041",
+    "name": "Different Methods To Determine Order Of Reaction",
+    "slug": "different-methods-to-determine-order-of-reaction",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-060-001",
+    "chapter_external_id": "CHE-060",
+    "name": "Cleansing Agents",
+    "slug": "cleansing-agents",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-060-002",
+    "chapter_external_id": "CHE-060",
+    "name": "Chemicals In Medicines",
+    "slug": "chemicals-in-medicines",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-060-003",
+    "chapter_external_id": "CHE-060",
+    "name": "Chemicals In Foods",
+    "slug": "chemicals-in-foods",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-057-001",
+    "chapter_external_id": "CHE-057",
+    "name": "Diazonium Salts And Other Nitrogen Containing Compounds",
+    "slug": "diazonium-salts-and-other-nitrogen-containing-compounds",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-057-002",
+    "chapter_external_id": "CHE-057",
+    "name": "Aliphatic Amines",
+    "slug": "aliphatic-amines",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-057-003",
+    "chapter_external_id": "CHE-057",
+    "name": "Aromatic Amines",
+    "slug": "aromatic-amines",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-049-001",
+    "chapter_external_id": "CHE-049",
+    "name": "Crystal Field Theory Cft",
+    "slug": "crystal-field-theory-cft",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-049-002",
+    "chapter_external_id": "CHE-049",
+    "name": "Warners Theory And Valence Bond Theory",
+    "slug": "warners-theory-and-valence-bond-theory",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-049-003",
+    "chapter_external_id": "CHE-049",
+    "name": "Coordination Number",
+    "slug": "coordination-number",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-049-004",
+    "chapter_external_id": "CHE-049",
+    "name": "Application Of Coordination Compound And Organometallic Compounds",
+    "slug": "application-of-coordination-compound-and-organometallic-compounds",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-049-005",
+    "chapter_external_id": "CHE-049",
+    "name": "Isomerism Of Coordination Compounds",
+    "slug": "isomerism-of-coordination-compounds",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-049-006",
+    "chapter_external_id": "CHE-049",
+    "name": "Nomenclature Of Coordination Compounds",
+    "slug": "nomenclature-of-coordination-compounds",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-049-007",
+    "chapter_external_id": "CHE-049",
+    "name": "Isomerisom Of Coordination Compounds",
+    "slug": "isomerisom-of-coordination-compounds",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-048-001",
+    "chapter_external_id": "CHE-048",
+    "name": "Properties Of Transition Elements",
+    "slug": "properties-of-transition-elements",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-048-002",
+    "chapter_external_id": "CHE-048",
+    "name": "Important Compounds Of Transition Elements",
+    "slug": "important-compounds-of-transition-elements",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-048-003",
+    "chapter_external_id": "CHE-048",
+    "name": "Inner Transition Elements Lanthanoids And Actinoids",
+    "slug": "inner-transition-elements-lanthanoids-and-actinoids",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-001",
+    "chapter_external_id": "CHE-040",
+    "name": "Batteries Fuel Cells And Corrosion",
+    "slug": "batteries-fuel-cells-and-corrosion",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-002",
+    "chapter_external_id": "CHE-040",
+    "name": "Conductance And Electrolysis",
+    "slug": "conductance-and-electrolysis",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-003",
+    "chapter_external_id": "CHE-040",
+    "name": "Electrochemical Series Cell And Their Emf",
+    "slug": "electrochemical-series-cell-and-their-emf",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-004",
+    "chapter_external_id": "CHE-040",
+    "name": "Equivalence",
+    "slug": "equivalence",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-005",
+    "chapter_external_id": "CHE-040",
+    "name": "Types Of Redox Reactions",
+    "slug": "types-of-redox-reactions",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-006",
+    "chapter_external_id": "CHE-040",
+    "name": "Redox Titration",
+    "slug": "redox-titration",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-007",
+    "chapter_external_id": "CHE-040",
+    "name": "Oxidation And Reduction Reactions",
+    "slug": "oxidation-and-reduction-reactions",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-008",
+    "chapter_external_id": "CHE-040",
+    "name": "Oxidation Number",
+    "slug": "oxidation-number",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-040-009",
+    "chapter_external_id": "CHE-040",
+    "name": "Balancing Of Redox Reactions",
+    "slug": "balancing-of-redox-reactions",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-050-001",
+    "chapter_external_id": "CHE-050",
+    "name": "Environmental Pollution",
+    "slug": "environmental-pollution",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-050-002",
+    "chapter_external_id": "CHE-050",
+    "name": "Air Pollution",
+    "slug": "air-pollution",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-050-003",
+    "chapter_external_id": "CHE-050",
+    "name": "Water Pollution",
+    "slug": "water-pollution",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-050-004",
+    "chapter_external_id": "CHE-050",
+    "name": "Soil Pollution",
+    "slug": "soil-pollution",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-035-001",
+    "chapter_external_id": "CHE-035",
+    "name": "Daltons Law Of Partial Pressure",
+    "slug": "daltons-law-of-partial-pressure",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-035-002",
+    "chapter_external_id": "CHE-035",
+    "name": "Gas Laws",
+    "slug": "gas-laws",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-035-003",
+    "chapter_external_id": "CHE-035",
+    "name": "Real Gas And Van Der Walls Equation",
+    "slug": "real-gas-and-van-der-walls-equation",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-035-004",
+    "chapter_external_id": "CHE-035",
+    "name": "Critical Phenomenon And Liquefaction",
+    "slug": "critical-phenomenon-and-liquefaction",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-035-005",
+    "chapter_external_id": "CHE-035",
+    "name": "Maxwells Distribution Of Speed",
+    "slug": "maxwells-distribution-of-speed",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-035-006",
+    "chapter_external_id": "CHE-035",
+    "name": "Ideal Gas Equation",
+    "slug": "ideal-gas-equation",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-054-001",
+    "chapter_external_id": "CHE-054",
+    "name": "Haloalkanes",
+    "slug": "haloalkanes",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-054-002",
+    "chapter_external_id": "CHE-054",
+    "name": "Haloarenes",
+    "slug": "haloarenes",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-054-003",
+    "chapter_external_id": "CHE-054",
+    "name": "Some Important Polyhalogens Compounds",
+    "slug": "some-important-polyhalogens-compounds",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-053-001",
+    "chapter_external_id": "CHE-053",
+    "name": "Properties And Preparation Of Alkynes",
+    "slug": "properties-and-preparation-of-alkynes",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-053-002",
+    "chapter_external_id": "CHE-053",
+    "name": "Aromatic Hydrocarbons",
+    "slug": "aromatic-hydrocarbons",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-053-003",
+    "chapter_external_id": "CHE-053",
+    "name": "Reaction Of Alkynes",
+    "slug": "reaction-of-alkynes",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-053-004",
+    "chapter_external_id": "CHE-053",
+    "name": "Reaction Of Alkanes",
+    "slug": "reaction-of-alkanes",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-053-005",
+    "chapter_external_id": "CHE-053",
+    "name": "Properties And Preparation Of Alkanes",
+    "slug": "properties-and-preparation-of-alkanes",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-053-006",
+    "chapter_external_id": "CHE-053",
+    "name": "Reaction Of Alkenes",
+    "slug": "reaction-of-alkenes",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-053-007",
+    "chapter_external_id": "CHE-053",
+    "name": "Properties And Preparation Of Alkenes",
+    "slug": "properties-and-preparation-of-alkenes",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-045-001",
+    "chapter_external_id": "CHE-045",
+    "name": "Hydrogen Peroxide",
+    "slug": "hydrogen-peroxide",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-045-002",
+    "chapter_external_id": "CHE-045",
+    "name": "Water And Heavy Water",
+    "slug": "water-and-heavy-water",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-045-003",
+    "chapter_external_id": "CHE-045",
+    "name": "Preparation And Properties Of Hydrogen",
+    "slug": "preparation-and-properties-of-hydrogen",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-045-004",
+    "chapter_external_id": "CHE-045",
+    "name": "Hard And Soft Water",
+    "slug": "hard-and-soft-water",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-045-005",
+    "chapter_external_id": "CHE-045",
+    "name": "Hydrides",
+    "slug": "hydrides",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-051-001",
+    "chapter_external_id": "CHE-051",
+    "name": "Refining Or Purification Of Metal",
+    "slug": "refining-or-purification-of-metal",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-051-002",
+    "chapter_external_id": "CHE-051",
+    "name": "Extractions Of Metals",
+    "slug": "extractions-of-metals",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-051-003",
+    "chapter_external_id": "CHE-051",
+    "name": "Ellingham Diagram",
+    "slug": "ellingham-diagram",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-051-004",
+    "chapter_external_id": "CHE-051",
+    "name": "Concentration Of Ore",
+    "slug": "concentration-of-ore",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-051-005",
+    "chapter_external_id": "CHE-051",
+    "name": "Minerals And Ores",
+    "slug": "minerals-and-ores",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-047-001",
+    "chapter_external_id": "CHE-047",
+    "name": "Group 15 Elements Nitrogen Family",
+    "slug": "group-15-elements-nitrogen-family",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-047-002",
+    "chapter_external_id": "CHE-047",
+    "name": "Group 16 Elements Oxygen Family",
+    "slug": "group-16-elements-oxygen-family",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-047-003",
+    "chapter_external_id": "CHE-047",
+    "name": "Group 13 Elements Boron Family",
+    "slug": "group-13-elements-boron-family",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-047-004",
+    "chapter_external_id": "CHE-047",
+    "name": "Group 14 Elements Carbon Family",
+    "slug": "group-14-elements-carbon-family",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-047-005",
+    "chapter_external_id": "CHE-047",
+    "name": "Group 17 Elements Halogen Family",
+    "slug": "group-17-elements-halogen-family",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-047-006",
+    "chapter_external_id": "CHE-047",
+    "name": "Group 18 Elements Inert Or Noble Gases",
+    "slug": "group-18-elements-inert-or-noble-gases",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-043-001",
+    "chapter_external_id": "CHE-043",
+    "name": "Nature Of Oxide",
+    "slug": "nature-of-oxide",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-043-002",
+    "chapter_external_id": "CHE-043",
+    "name": "Ionization Energy",
+    "slug": "ionization-energy",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-043-003",
+    "chapter_external_id": "CHE-043",
+    "name": "Electron Gain Enthalpy",
+    "slug": "electron-gain-enthalpy",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-043-004",
+    "chapter_external_id": "CHE-043",
+    "name": "Atomic And Ionic Radius",
+    "slug": "atomic-and-ionic-radius",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-043-005",
+    "chapter_external_id": "CHE-043",
+    "name": "Periodic Table And Its Features",
+    "slug": "periodic-table-and-its-features",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-043-006",
+    "chapter_external_id": "CHE-043",
+    "name": "Electronegativity",
+    "slug": "electronegativity",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-059-001",
+    "chapter_external_id": "CHE-059",
+    "name": "Classification Preparations And Properties Of Polymers",
+    "slug": "classification-preparations-and-properties-of-polymers",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-059-002",
+    "chapter_external_id": "CHE-059",
+    "name": "Uses Of Polymers",
+    "slug": "uses-of-polymers",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-001",
+    "chapter_external_id": "CHE-061",
+    "name": "Detection Of Extra Elements And Functional Groups",
+    "slug": "detection-of-extra-elements-and-functional-groups",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-002",
+    "chapter_external_id": "CHE-061",
+    "name": "Experiments Involving Physical Chemistry",
+    "slug": "experiments-involving-physical-chemistry",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-003",
+    "chapter_external_id": "CHE-061",
+    "name": "Chemistry Involved In The Preparation Of Organic And Inorganic Compounds",
+    "slug": "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-004",
+    "chapter_external_id": "CHE-061",
+    "name": "Chemistry Involved In Titrimetric Experiments",
+    "slug": "chemistry-involved-in-titrimetric-experiments",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-005",
+    "chapter_external_id": "CHE-061",
+    "name": "Qualitative Salt Analysis",
+    "slug": "qualitative-salt-analysis",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-006",
+    "chapter_external_id": "CHE-061",
+    "name": "Introduction To Qualitative Analysis",
+    "slug": "introduction-to-qualitative-analysis",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-007",
+    "chapter_external_id": "CHE-061",
+    "name": "Chemical Principles",
+    "slug": "chemical-principles",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-008",
+    "chapter_external_id": "CHE-061",
+    "name": "Systematic Analysis Of Cations",
+    "slug": "systematic-analysis-of-cations",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-009",
+    "chapter_external_id": "CHE-061",
+    "name": "Preliminary Tests",
+    "slug": "preliminary-tests",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-010",
+    "chapter_external_id": "CHE-061",
+    "name": "Systematic Analysis Of Anions",
+    "slug": "systematic-analysis-of-anions",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-061-011",
+    "chapter_external_id": "CHE-061",
+    "name": "Flame And Charcoal Tests",
+    "slug": "flame-and-charcoal-tests",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-046-001",
+    "chapter_external_id": "CHE-046",
+    "name": "Physiochemical Trends In Alkali Metals",
+    "slug": "physiochemical-trends-in-alkali-metals",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-046-002",
+    "chapter_external_id": "CHE-046",
+    "name": "Compounds Of Alkaline Earth Metals",
+    "slug": "compounds-of-alkaline-earth-metals",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-046-003",
+    "chapter_external_id": "CHE-046",
+    "name": "Physiochemical Trends In Alkaline Earth Metals",
+    "slug": "physiochemical-trends-in-alkaline-earth-metals",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-046-004",
+    "chapter_external_id": "CHE-046",
+    "name": "Compounds Of Alkali Metals",
+    "slug": "compounds-of-alkali-metals",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-036-001",
+    "chapter_external_id": "CHE-036",
+    "name": "Crystal Structure Of Solids",
+    "slug": "crystal-structure-of-solids",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-036-002",
+    "chapter_external_id": "CHE-036",
+    "name": "Defects In Crystal",
+    "slug": "defects-in-crystal",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-036-003",
+    "chapter_external_id": "CHE-036",
+    "name": "Close Packing In Crystals",
+    "slug": "close-packing-in-crystals",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-036-004",
+    "chapter_external_id": "CHE-036",
+    "name": "Structure Of Ionic Compounds",
+    "slug": "structure-of-ionic-compounds",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-037-001",
+    "chapter_external_id": "CHE-037",
+    "name": "Depression In Freezing Point",
+    "slug": "depression-in-freezing-point",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-037-002",
+    "chapter_external_id": "CHE-037",
+    "name": "Elevation In Boiling Point",
+    "slug": "elevation-in-boiling-point",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-037-003",
+    "chapter_external_id": "CHE-037",
+    "name": "Abnormal Colligative Property And Vant Hoff Factor",
+    "slug": "abnormal-colligative-property-and-vant-hoff-factor",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-037-004",
+    "chapter_external_id": "CHE-037",
+    "name": "Osmotic Pressure",
+    "slug": "osmotic-pressure",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-037-005",
+    "chapter_external_id": "CHE-037",
+    "name": "Relative Lowering Of Vapour Pressure And Roults Law",
+    "slug": "relative-lowering-of-vapour-pressure-and-roults-law",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-037-006",
+    "chapter_external_id": "CHE-037",
+    "name": "Henrys Law",
+    "slug": "henrys-law",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-033-001",
+    "chapter_external_id": "CHE-033",
+    "name": "Mole Concept",
+    "slug": "mole-concept",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-033-002",
+    "chapter_external_id": "CHE-033",
+    "name": "Concentration Terms",
+    "slug": "concentration-terms",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-033-003",
+    "chapter_external_id": "CHE-033",
+    "name": "Quantitative Measures In Chemical Equations",
+    "slug": "quantitative-measures-in-chemical-equations",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-033-004",
+    "chapter_external_id": "CHE-033",
+    "name": "Significant Figures",
+    "slug": "significant-figures",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-033-005",
+    "chapter_external_id": "CHE-033",
+    "name": "Laws Of Chemical Combination",
+    "slug": "laws-of-chemical-combination",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-001",
+    "chapter_external_id": "CHE-034",
+    "name": "De Broglie Hypothesis",
+    "slug": "de-broglie-hypothesis",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-002",
+    "chapter_external_id": "CHE-034",
+    "name": "Heisenberg Uncertainty Principle",
+    "slug": "heisenberg-uncertainty-principle",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-003",
+    "chapter_external_id": "CHE-034",
+    "name": "Bohrs Model For Hydrogen Atom",
+    "slug": "bohrs-model-for-hydrogen-atom",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-004",
+    "chapter_external_id": "CHE-034",
+    "name": "Quantum Numbers And Orbitals",
+    "slug": "quantum-numbers-and-orbitals",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-005",
+    "chapter_external_id": "CHE-034",
+    "name": "Hydrogen Spectrum",
+    "slug": "hydrogen-spectrum",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-006",
+    "chapter_external_id": "CHE-034",
+    "name": "Quantum Mechanical Model Of Atom",
+    "slug": "quantum-mechanical-model-of-atom",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-007",
+    "chapter_external_id": "CHE-034",
+    "name": "Electronic Configuration And Nodes",
+    "slug": "electronic-configuration-and-nodes",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-008",
+    "chapter_external_id": "CHE-034",
+    "name": "Photoelectric Effect",
+    "slug": "photoelectric-effect",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-034-009",
+    "chapter_external_id": "CHE-034",
+    "name": "Thomsons Model And Rutherfords Model",
+    "slug": "thomsons-model-and-rutherfords-model",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-042-001",
+    "chapter_external_id": "CHE-042",
+    "name": "Adsorption",
+    "slug": "adsorption",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-042-002",
+    "chapter_external_id": "CHE-042",
+    "name": "Colloids",
+    "slug": "colloids",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-042-003",
+    "chapter_external_id": "CHE-042",
+    "name": "Catalysis",
+    "slug": "catalysis",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-038-001",
+    "chapter_external_id": "CHE-038",
+    "name": "Reactions Related To Enthalpies And Hesss Law",
+    "slug": "reactions-related-to-enthalpies-and-hesss-law",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-038-002",
+    "chapter_external_id": "CHE-038",
+    "name": "First Law Of Thermodynamics",
+    "slug": "first-law-of-thermodynamics",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-038-003",
+    "chapter_external_id": "CHE-038",
+    "name": "Entropy Free Energy Change And Spontaneity",
+    "slug": "entropy-free-energy-change-and-spontaneity",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-038-004",
+    "chapter_external_id": "CHE-038",
+    "name": "Second Law Of Thermodynamics",
+    "slug": "second-law-of-thermodynamics",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-CHE-038-005",
+    "chapter_external_id": "CHE-038",
+    "name": "Fundamentals Of Thermodynamics",
+    "slug": "fundamentals-of-thermodynamics",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-084-001",
+    "chapter_external_id": "MAT-084",
+    "name": "Lines In Space",
+    "slug": "lines-in-space",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-084-002",
+    "chapter_external_id": "MAT-084",
+    "name": "Direction Cosines And Direction Ratios Of A Line",
+    "slug": "direction-cosines-and-direction-ratios-of-a-line",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-084-003",
+    "chapter_external_id": "MAT-084",
+    "name": "Lines And Plane",
+    "slug": "lines-and-plane",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-084-004",
+    "chapter_external_id": "MAT-084",
+    "name": "Plane In Space",
+    "slug": "plane-in-space",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-073-001",
+    "chapter_external_id": "MAT-073",
+    "name": "Maxima And Minima",
+    "slug": "maxima-and-minima",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-073-002",
+    "chapter_external_id": "MAT-073",
+    "name": "Rate Of Change Of Quantity",
+    "slug": "rate-of-change-of-quantity",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-073-003",
+    "chapter_external_id": "MAT-073",
+    "name": "Monotonicity",
+    "slug": "monotonicity",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-073-004",
+    "chapter_external_id": "MAT-073",
+    "name": "Tangent And Normal",
+    "slug": "tangent-and-normal",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-073-005",
+    "chapter_external_id": "MAT-073",
+    "name": "Mean Value Theorem",
+    "slug": "mean-value-theorem",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-077-001",
+    "chapter_external_id": "MAT-077",
+    "name": "Area Bounded Between The Curves",
+    "slug": "area-bounded-between-the-curves",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-077-002",
+    "chapter_external_id": "MAT-077",
+    "name": "Area Under Simple Curves In Standard Forms",
+    "slug": "area-under-simple-curves-in-standard-forms",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-070-001",
+    "chapter_external_id": "MAT-070",
+    "name": "Binomial Theorem For Any Index",
+    "slug": "binomial-theorem-for-any-index",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-070-002",
+    "chapter_external_id": "MAT-070",
+    "name": "Divisibility Concept And Remainder Concept",
+    "slug": "divisibility-concept-and-remainder-concept",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-070-003",
+    "chapter_external_id": "MAT-070",
+    "name": "Problems Based On Binomial Co Efficient And Collection Of Binomial Co Efficient",
+    "slug": "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-070-004",
+    "chapter_external_id": "MAT-070",
+    "name": "Multinomial Theorem",
+    "slug": "multinomial-theorem",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-070-005",
+    "chapter_external_id": "MAT-070",
+    "name": "General Term",
+    "slug": "general-term",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-070-006",
+    "chapter_external_id": "MAT-070",
+    "name": "Integral And Fractional Part Of A Number",
+    "slug": "integral-and-fractional-part-of-a-number",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-070-007",
+    "chapter_external_id": "MAT-070",
+    "name": "Middle Term",
+    "slug": "middle-term",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-001",
+    "chapter_external_id": "MAT-079",
+    "name": "Chord With A Given Middle Point",
+    "slug": "chord-with-a-given-middle-point",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-002",
+    "chapter_external_id": "MAT-079",
+    "name": "Radical Axis",
+    "slug": "radical-axis",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-003",
+    "chapter_external_id": "MAT-079",
+    "name": "Parametric Form Of A Circle",
+    "slug": "parametric-form-of-a-circle",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-004",
+    "chapter_external_id": "MAT-079",
+    "name": "Basic Theorems Of A Circle",
+    "slug": "basic-theorems-of-a-circle",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-005",
+    "chapter_external_id": "MAT-079",
+    "name": "Intercepts Of A Circle",
+    "slug": "intercepts-of-a-circle",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-006",
+    "chapter_external_id": "MAT-079",
+    "name": "Family Of Circle",
+    "slug": "family-of-circle",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-007",
+    "chapter_external_id": "MAT-079",
+    "name": "Number Of Common Tangents And Position Of Two Circle",
+    "slug": "number-of-common-tangents-and-position-of-two-circle",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-008",
+    "chapter_external_id": "MAT-079",
+    "name": "Chord Of Contact",
+    "slug": "chord-of-contact",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-009",
+    "chapter_external_id": "MAT-079",
+    "name": "Position Of A Point With Respect To Circle",
+    "slug": "position-of-a-point-with-respect-to-circle",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-010",
+    "chapter_external_id": "MAT-079",
+    "name": "Tangent And Normal",
+    "slug": "tangent-and-normal",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-011",
+    "chapter_external_id": "MAT-079",
+    "name": "Pair Of Tangents",
+    "slug": "pair-of-tangents",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-012",
+    "chapter_external_id": "MAT-079",
+    "name": "Director Circle",
+    "slug": "director-circle",
+    "sort_order": 12,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-079-013",
+    "chapter_external_id": "MAT-079",
+    "name": "Orthogonality Of Two Circles",
+    "slug": "orthogonality-of-two-circles",
+    "sort_order": 13,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-001",
+    "chapter_external_id": "MAT-066",
+    "name": "Applications Of Complex Numbers In Coordinate Geometry",
+    "slug": "applications-of-complex-numbers-in-coordinate-geometry",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-002",
+    "chapter_external_id": "MAT-066",
+    "name": "Cube Roots Of Unity",
+    "slug": "cube-roots-of-unity",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-003",
+    "chapter_external_id": "MAT-066",
+    "name": "Algebra Of Complex Numbers",
+    "slug": "algebra-of-complex-numbers",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-004",
+    "chapter_external_id": "MAT-066",
+    "name": "De Moivres Theorem",
+    "slug": "de-moivres-theorem",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-005",
+    "chapter_external_id": "MAT-066",
+    "name": "Modulus Of Complex Numbers",
+    "slug": "modulus-of-complex-numbers",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-006",
+    "chapter_external_id": "MAT-066",
+    "name": "Argument Of Complex Numbers",
+    "slug": "argument-of-complex-numbers",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-007",
+    "chapter_external_id": "MAT-066",
+    "name": "Nth Roots Of Unity",
+    "slug": "nth-roots-of-unity",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-008",
+    "chapter_external_id": "MAT-066",
+    "name": "Conjugate Of Complex Numbers",
+    "slug": "conjugate-of-complex-numbers",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-009",
+    "chapter_external_id": "MAT-066",
+    "name": "Algebraic Equations Of Higher Degree",
+    "slug": "algebraic-equations-of-higher-degree",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-010",
+    "chapter_external_id": "MAT-066",
+    "name": "Nature Of Roots",
+    "slug": "nature-of-roots",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-011",
+    "chapter_external_id": "MAT-066",
+    "name": "Relation Between Roots And Coefficients",
+    "slug": "relation-between-roots-and-coefficients",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-012",
+    "chapter_external_id": "MAT-066",
+    "name": "Modulus Function",
+    "slug": "modulus-function",
+    "sort_order": 12,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-013",
+    "chapter_external_id": "MAT-066",
+    "name": "Location Of Roots",
+    "slug": "location-of-roots",
+    "sort_order": 13,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-014",
+    "chapter_external_id": "MAT-066",
+    "name": "Range Of Quadratic Expression",
+    "slug": "range-of-quadratic-expression",
+    "sort_order": 14,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-015",
+    "chapter_external_id": "MAT-066",
+    "name": "Inequalities",
+    "slug": "inequalities",
+    "sort_order": 15,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-016",
+    "chapter_external_id": "MAT-066",
+    "name": "Common Roots",
+    "slug": "common-roots",
+    "sort_order": 16,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-066-017",
+    "chapter_external_id": "MAT-066",
+    "name": "Greatest Integer And Fractional Part Functions",
+    "slug": "greatest-integer-and-fractional-part-functions",
+    "sort_order": 17,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-075-001",
+    "chapter_external_id": "MAT-075",
+    "name": "Properties Of Definite Integration",
+    "slug": "properties-of-definite-integration",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-075-002",
+    "chapter_external_id": "MAT-075",
+    "name": "Newton Lebnitz Rule Of Differentiation",
+    "slug": "newton-lebnitz-rule-of-differentiation",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-075-003",
+    "chapter_external_id": "MAT-075",
+    "name": "Definite Integral As A Limit Of Sum",
+    "slug": "definite-integral-as-a-limit-of-sum",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-075-004",
+    "chapter_external_id": "MAT-075",
+    "name": "Limits Of Algebric Function",
+    "slug": "limits-of-algebric-function",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-076-001",
+    "chapter_external_id": "MAT-076",
+    "name": "Solution Of Differential Equations By Method Of Separation Variables And Homogeneous",
+    "slug": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-076-002",
+    "chapter_external_id": "MAT-076",
+    "name": "Linear Differential Equations",
+    "slug": "linear-differential-equations",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-076-003",
+    "chapter_external_id": "MAT-076",
+    "name": "Formation Of Differential Equations",
+    "slug": "formation-of-differential-equations",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-001",
+    "chapter_external_id": "MAT-072",
+    "name": "Methods Of Differentiation",
+    "slug": "methods-of-differentiation",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-002",
+    "chapter_external_id": "MAT-072",
+    "name": "Successive Differentiation",
+    "slug": "successive-differentiation",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-003",
+    "chapter_external_id": "MAT-072",
+    "name": "Differentiation Of Logarithmic Function",
+    "slug": "differentiation-of-logarithmic-function",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-004",
+    "chapter_external_id": "MAT-072",
+    "name": "Differentiation Of Inverse Trigonometric Function",
+    "slug": "differentiation-of-inverse-trigonometric-function",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-005",
+    "chapter_external_id": "MAT-072",
+    "name": "Differentiation Of Composite Function",
+    "slug": "differentiation-of-composite-function",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-006",
+    "chapter_external_id": "MAT-072",
+    "name": "Differentiation Of Implicit Function",
+    "slug": "differentiation-of-implicit-function",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-007",
+    "chapter_external_id": "MAT-072",
+    "name": "Differentiation Of Parametric Function",
+    "slug": "differentiation-of-parametric-function",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-008",
+    "chapter_external_id": "MAT-072",
+    "name": "Limits Of Algebric Function",
+    "slug": "limits-of-algebric-function",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-009",
+    "chapter_external_id": "MAT-072",
+    "name": "Differentiability",
+    "slug": "differentiability",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-010",
+    "chapter_external_id": "MAT-072",
+    "name": "Limits Of Exponential Functions",
+    "slug": "limits-of-exponential-functions",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-011",
+    "chapter_external_id": "MAT-072",
+    "name": "Limits Of Trigonometric Functions",
+    "slug": "limits-of-trigonometric-functions",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-012",
+    "chapter_external_id": "MAT-072",
+    "name": "Continuity",
+    "slug": "continuity",
+    "sort_order": 12,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-072-013",
+    "chapter_external_id": "MAT-072",
+    "name": "Limits Of Logarithmic Functions",
+    "slug": "limits-of-logarithmic-functions",
+    "sort_order": 13,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-081-001",
+    "chapter_external_id": "MAT-081",
+    "name": "Question Based On Basic Definition And Parametric Representation",
+    "slug": "question-based-on-basic-definition-and-parametric-representation",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-081-002",
+    "chapter_external_id": "MAT-081",
+    "name": "Chord Of Ellipse",
+    "slug": "chord-of-ellipse",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-081-003",
+    "chapter_external_id": "MAT-081",
+    "name": "Position Of Point And Chord Joining Of Two Points",
+    "slug": "position-of-point-and-chord-joining-of-two-points",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-081-004",
+    "chapter_external_id": "MAT-081",
+    "name": "Locus",
+    "slug": "locus",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-081-005",
+    "chapter_external_id": "MAT-081",
+    "name": "Tangent To Ellipse",
+    "slug": "tangent-to-ellipse",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-081-006",
+    "chapter_external_id": "MAT-081",
+    "name": "Normal To Ellipse",
+    "slug": "normal-to-ellipse",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-081-007",
+    "chapter_external_id": "MAT-081",
+    "name": "Common Tangent",
+    "slug": "common-tangent",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-001",
+    "chapter_external_id": "MAT-065",
+    "name": "Domain",
+    "slug": "domain",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-002",
+    "chapter_external_id": "MAT-065",
+    "name": "Classification Of Functions",
+    "slug": "classification-of-functions",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-003",
+    "chapter_external_id": "MAT-065",
+    "name": "Range",
+    "slug": "range",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-004",
+    "chapter_external_id": "MAT-065",
+    "name": "Composite Functions",
+    "slug": "composite-functions",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-005",
+    "chapter_external_id": "MAT-065",
+    "name": "Periodic Functions",
+    "slug": "periodic-functions",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-006",
+    "chapter_external_id": "MAT-065",
+    "name": "Functional Equations",
+    "slug": "functional-equations",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-007",
+    "chapter_external_id": "MAT-065",
+    "name": "Even And Odd Functions",
+    "slug": "even-and-odd-functions",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-008",
+    "chapter_external_id": "MAT-065",
+    "name": "Inverse Functions",
+    "slug": "inverse-functions",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-009",
+    "chapter_external_id": "MAT-065",
+    "name": "Logarithmic Equations",
+    "slug": "logarithmic-equations",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-010",
+    "chapter_external_id": "MAT-065",
+    "name": "Logarithm Inequalities",
+    "slug": "logarithm-inequalities",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-011",
+    "chapter_external_id": "MAT-065",
+    "name": "Number Of Sets And Relations",
+    "slug": "number-of-sets-and-relations",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-012",
+    "chapter_external_id": "MAT-065",
+    "name": "Symmetric Transitive And Reflexive Properties",
+    "slug": "symmetric-transitive-and-reflexive-properties",
+    "sort_order": 12,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-065-013",
+    "chapter_external_id": "MAT-065",
+    "name": "Venn Diagram",
+    "slug": "venn-diagram",
+    "sort_order": 13,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-087-001",
+    "chapter_external_id": "MAT-087",
+    "name": "Height And Distance",
+    "slug": "height-and-distance",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-087-002",
+    "chapter_external_id": "MAT-087",
+    "name": "Circumcenter Incenter And Orthocenter",
+    "slug": "circumcenter-incenter-and-orthocenter",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-087-003",
+    "chapter_external_id": "MAT-087",
+    "name": "Cosine Rule",
+    "slug": "cosine-rule",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-087-004",
+    "chapter_external_id": "MAT-087",
+    "name": "Area Of Triangle",
+    "slug": "area-of-triangle",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-087-005",
+    "chapter_external_id": "MAT-087",
+    "name": "Half Angle Formulae",
+    "slug": "half-angle-formulae",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-082-001",
+    "chapter_external_id": "MAT-082",
+    "name": "Question Based On Basic Definition And Parametric Representation",
+    "slug": "question-based-on-basic-definition-and-parametric-representation",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-082-002",
+    "chapter_external_id": "MAT-082",
+    "name": "Position Of Point And Chord Joining Of Two Points",
+    "slug": "position-of-point-and-chord-joining-of-two-points",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-082-003",
+    "chapter_external_id": "MAT-082",
+    "name": "Tangent To Hyperbola",
+    "slug": "tangent-to-hyperbola",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-082-004",
+    "chapter_external_id": "MAT-082",
+    "name": "Locus",
+    "slug": "locus",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-082-005",
+    "chapter_external_id": "MAT-082",
+    "name": "Normal To Hyperbola",
+    "slug": "normal-to-hyperbola",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-082-006",
+    "chapter_external_id": "MAT-082",
+    "name": "Common Tangent",
+    "slug": "common-tangent",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-074-001",
+    "chapter_external_id": "MAT-074",
+    "name": "Integration By Parts",
+    "slug": "integration-by-parts",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-074-002",
+    "chapter_external_id": "MAT-074",
+    "name": "Integration By Substitution",
+    "slug": "integration-by-substitution",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-074-003",
+    "chapter_external_id": "MAT-074",
+    "name": "Standard Integral",
+    "slug": "standard-integral",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-086-001",
+    "chapter_external_id": "MAT-086",
+    "name": "Properties Of Inverse Trigonometric Functions",
+    "slug": "properties-of-inverse-trigonometric-functions",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-086-002",
+    "chapter_external_id": "MAT-086",
+    "name": "Principal Value Of Inverse Trigonometric Functions",
+    "slug": "principal-value-of-inverse-trigonometric-functions",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-086-003",
+    "chapter_external_id": "MAT-086",
+    "name": "Domain And Range Of Inverse Trigonometric Functions",
+    "slug": "domain-and-range-of-inverse-trigonometric-functions",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-086-004",
+    "chapter_external_id": "MAT-086",
+    "name": "Sum Upto N Terms And Infinite Terms Of Inverse Series",
+    "slug": "sum-upto-n-terms-and-infinite-terms-of-inverse-series",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-090-001",
+    "chapter_external_id": "MAT-090",
+    "name": "Logical Connectives",
+    "slug": "logical-connectives",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-090-002",
+    "chapter_external_id": "MAT-090",
+    "name": "Logical Statement",
+    "slug": "logical-statement",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-001",
+    "chapter_external_id": "MAT-067",
+    "name": "Expansion Of Determinant",
+    "slug": "expansion-of-determinant",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-002",
+    "chapter_external_id": "MAT-067",
+    "name": "Solutions Of System Of Linear Equations In Two Or Three Variables Using Determinants And Matrices",
+    "slug": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-003",
+    "chapter_external_id": "MAT-067",
+    "name": "Multiplication Of Matrices",
+    "slug": "multiplication-of-matrices",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-004",
+    "chapter_external_id": "MAT-067",
+    "name": "Inverse Of A Matrix",
+    "slug": "inverse-of-a-matrix",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-005",
+    "chapter_external_id": "MAT-067",
+    "name": "Adjoint Of A Matrix",
+    "slug": "adjoint-of-a-matrix",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-006",
+    "chapter_external_id": "MAT-067",
+    "name": "Trace Of A Matrix",
+    "slug": "trace-of-a-matrix",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-007",
+    "chapter_external_id": "MAT-067",
+    "name": "Operations On Matrices",
+    "slug": "operations-on-matrices",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-008",
+    "chapter_external_id": "MAT-067",
+    "name": "Symmetric And Skew Symmetric Matrices",
+    "slug": "symmetric-and-skew-symmetric-matrices",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-009",
+    "chapter_external_id": "MAT-067",
+    "name": "Transpose Of A Matrix",
+    "slug": "transpose-of-a-matrix",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-010",
+    "chapter_external_id": "MAT-067",
+    "name": "Properties Of Determinants",
+    "slug": "properties-of-determinants",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-067-011",
+    "chapter_external_id": "MAT-067",
+    "name": "Basic Of Matrix",
+    "slug": "basic-of-matrix",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-001",
+    "chapter_external_id": "MAT-080",
+    "name": "Locus",
+    "slug": "locus",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-002",
+    "chapter_external_id": "MAT-080",
+    "name": "Question Based On Basic Definition And Parametric Representation",
+    "slug": "question-based-on-basic-definition-and-parametric-representation",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-003",
+    "chapter_external_id": "MAT-080",
+    "name": "Chord Of Parabola",
+    "slug": "chord-of-parabola",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-004",
+    "chapter_external_id": "MAT-080",
+    "name": "Position Of Point And Chord Joining Of Two Points",
+    "slug": "position-of-point-and-chord-joining-of-two-points",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-005",
+    "chapter_external_id": "MAT-080",
+    "name": "Tangent To Parabola",
+    "slug": "tangent-to-parabola",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-006",
+    "chapter_external_id": "MAT-080",
+    "name": "Common Tangent",
+    "slug": "common-tangent",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-007",
+    "chapter_external_id": "MAT-080",
+    "name": "Normal To Parabola",
+    "slug": "normal-to-parabola",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-080-008",
+    "chapter_external_id": "MAT-080",
+    "name": "Pair Of Tangents",
+    "slug": "pair-of-tangents",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-001",
+    "chapter_external_id": "MAT-068",
+    "name": "Conditional Combinations",
+    "slug": "conditional-combinations",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-002",
+    "chapter_external_id": "MAT-068",
+    "name": "Number Of Permutations",
+    "slug": "number-of-permutations",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-003",
+    "chapter_external_id": "MAT-068",
+    "name": "Conditional Permutations",
+    "slug": "conditional-permutations",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-004",
+    "chapter_external_id": "MAT-068",
+    "name": "Sum Of Numbers",
+    "slug": "sum-of-numbers",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-005",
+    "chapter_external_id": "MAT-068",
+    "name": "Divisibility Of Numbers",
+    "slug": "divisibility-of-numbers",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-006",
+    "chapter_external_id": "MAT-068",
+    "name": "Number Of Combinations",
+    "slug": "number-of-combinations",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-007",
+    "chapter_external_id": "MAT-068",
+    "name": "Factorial",
+    "slug": "factorial",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-008",
+    "chapter_external_id": "MAT-068",
+    "name": "Application Of Permutations And Combination In Geometry",
+    "slug": "application-of-permutations-and-combination-in-geometry",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-009",
+    "chapter_external_id": "MAT-068",
+    "name": "Dearrangement",
+    "slug": "dearrangement",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-068-010",
+    "chapter_external_id": "MAT-068",
+    "name": "Circular Permutations",
+    "slug": "circular-permutations",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-001",
+    "chapter_external_id": "MAT-089",
+    "name": "Total Probability Theorem",
+    "slug": "total-probability-theorem",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-002",
+    "chapter_external_id": "MAT-089",
+    "name": "Probability Distribution Of A Random Variable",
+    "slug": "probability-distribution-of-a-random-variable",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-003",
+    "chapter_external_id": "MAT-089",
+    "name": "Conditional Probability And Multiplication Theorem",
+    "slug": "conditional-probability-and-multiplication-theorem",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-004",
+    "chapter_external_id": "MAT-089",
+    "name": "Bayes Theorem",
+    "slug": "bayes-theorem",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-005",
+    "chapter_external_id": "MAT-089",
+    "name": "Permutation And Combination Based Problem",
+    "slug": "permutation-and-combination-based-problem",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-006",
+    "chapter_external_id": "MAT-089",
+    "name": "Classical Defininition Of Probability",
+    "slug": "classical-defininition-of-probability",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-007",
+    "chapter_external_id": "MAT-089",
+    "name": "Venn Diagram And Set Theory",
+    "slug": "venn-diagram-and-set-theory",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-089-008",
+    "chapter_external_id": "MAT-089",
+    "name": "Binomial Distribution",
+    "slug": "binomial-distribution",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-071-001",
+    "chapter_external_id": "MAT-071",
+    "name": "Arithmetic Progression",
+    "slug": "arithmetic-progression",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-071-002",
+    "chapter_external_id": "MAT-071",
+    "name": "Geometric Progression",
+    "slug": "geometric-progression",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-071-003",
+    "chapter_external_id": "MAT-071",
+    "name": "Harmonic Progression",
+    "slug": "harmonic-progression",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-071-004",
+    "chapter_external_id": "MAT-071",
+    "name": "Arithmetico Geometric Progression",
+    "slug": "arithmetico-geometric-progression",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-071-005",
+    "chapter_external_id": "MAT-071",
+    "name": "Summation Of Series",
+    "slug": "summation-of-series",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-071-006",
+    "chapter_external_id": "MAT-071",
+    "name": "Am Gm And Hm",
+    "slug": "am-gm-and-hm",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-088-001",
+    "chapter_external_id": "MAT-088",
+    "name": "Calculation Of Standard Deviation Variance And Mean Deviation Of Grouped And Ungrouped Data",
+    "slug": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-088-002",
+    "chapter_external_id": "MAT-088",
+    "name": "Calculation Of Mean Median And Mode Of Grouped And Ungrouped Data",
+    "slug": "calculation-of-mean-median-and-mode-of-grouped-and-ungrouped-data",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-001",
+    "chapter_external_id": "MAT-078",
+    "name": "Centers Of Triangle",
+    "slug": "centers-of-triangle",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-002",
+    "chapter_external_id": "MAT-078",
+    "name": "Section Formula",
+    "slug": "section-formula",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-003",
+    "chapter_external_id": "MAT-078",
+    "name": "Distance Formula",
+    "slug": "distance-formula",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-004",
+    "chapter_external_id": "MAT-078",
+    "name": "Angle Between Two Lines",
+    "slug": "angle-between-two-lines",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-005",
+    "chapter_external_id": "MAT-078",
+    "name": "Locus",
+    "slug": "locus",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-006",
+    "chapter_external_id": "MAT-078",
+    "name": "Condition Of Concurrency",
+    "slug": "condition-of-concurrency",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-007",
+    "chapter_external_id": "MAT-078",
+    "name": "Position Of A Point With Respect To A Line",
+    "slug": "position-of-a-point-with-respect-to-a-line",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-008",
+    "chapter_external_id": "MAT-078",
+    "name": "Distance Of A Point From A Line",
+    "slug": "distance-of-a-point-from-a-line",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-009",
+    "chapter_external_id": "MAT-078",
+    "name": "Various Forms Of Straight Line",
+    "slug": "various-forms-of-straight-line",
+    "sort_order": 9,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-010",
+    "chapter_external_id": "MAT-078",
+    "name": "Area Of Triangle And Condition Of Collinearity",
+    "slug": "area-of-triangle-and-condition-of-collinearity",
+    "sort_order": 10,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-011",
+    "chapter_external_id": "MAT-078",
+    "name": "Pair Of Straight Lines",
+    "slug": "pair-of-straight-lines",
+    "sort_order": 11,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-078-012",
+    "chapter_external_id": "MAT-078",
+    "name": "Angle Bisector",
+    "slug": "angle-bisector",
+    "sort_order": 12,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-001",
+    "chapter_external_id": "MAT-085",
+    "name": "Solving Trigonometric Equations",
+    "slug": "solving-trigonometric-equations",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-002",
+    "chapter_external_id": "MAT-085",
+    "name": "Fundamental Identities",
+    "slug": "fundamental-identities",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-003",
+    "chapter_external_id": "MAT-085",
+    "name": "Trigonometric Series",
+    "slug": "trigonometric-series",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-004",
+    "chapter_external_id": "MAT-085",
+    "name": "Range Of Trigonometric Functions",
+    "slug": "range-of-trigonometric-functions",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-005",
+    "chapter_external_id": "MAT-085",
+    "name": "Addition And Subtraction Formula",
+    "slug": "addition-and-subtraction-formula",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-006",
+    "chapter_external_id": "MAT-085",
+    "name": "Multiple And Sub Multiple Angle Formula",
+    "slug": "multiple-and-sub-multiple-angle-formula",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-007",
+    "chapter_external_id": "MAT-085",
+    "name": "Basic Definition Of Trigonometric Function",
+    "slug": "basic-definition-of-trigonometric-function",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-008",
+    "chapter_external_id": "MAT-085",
+    "name": "Trigonometric Ratio Of Standard Angles",
+    "slug": "trigonometric-ratio-of-standard-angles",
+    "sort_order": 8,
+    "status": "active"
+  },
+  {
+    "id": "TOPIC-MAT-085-009",
+    "chapter_external_id": "MAT-085",
+    "name": "Transformation Formula",
+    "slug": "transformation-formula",
+    "sort_order": 9,
+    "status": "active"
+  }
+]

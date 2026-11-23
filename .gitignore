@@ -1,0 +1,62 @@
+# Dependencies & Compilation
+node_modules/
+dist/
+build/
+.cache/
+coverage/
+*.tsbuildinfo
+.turbo/
+.vercel/
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+.env.*
+!.env.example
+
+# Supabase Local State & Secrets
+supabase/.temp/
+supabase/.branches/
+supabase/.env*
+
+# Editor & System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Certificates, Keys & Credentials
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.jks
+*credential*
+*secret*
+*token*
+.cert/
+
+# Content, Media & Raw Source Data (EXCLUDED)
+data/raw/
+data/demo_import/
+data/templates/
+*.pdf
+*.xlsx
+*.csv
+
+# Logs, Dumps & Temporary Working Directories
+*.log
+npm-debug.log*
+yarn-debug.log*
+output/
+scratch/
+temp_chrome/
+.chrome-profile/
+playwright-report/
+test-results/

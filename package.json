@@ -1,0 +1,47 @@
+{
+  "name": "jee-practice-hub",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:security": "vitest run docs/audit/scripts/security_probes.test.ts tests/security.test.ts tests/phase2_security.test.ts tests/phase4_security_rls.test.ts tests/phase5_security_audit.test.ts tests/syllabus_security_rls.test.ts tests/student_registration_multitenancy.test.ts docs/audit/scripts/exam_integrity.test.ts",
+    "test:integrity": "vitest run tests/syllabus_seed_and_migration.test.ts tests/syllabus_merge_move_ops.test.ts tests/phase4_data_management.test.ts tests/phase7_data_rule_aggregates.test.ts tests/seed_real_questions.test.ts tests/phase4_preflight_idempotency.test.ts",
+    "test:functional": "vitest run tests/practice_immediate_solution.test.ts tests/practice_render_ssr.test.tsx tests/difficulty_ladder.test.ts tests/enhancement_e1_adaptive_repetition.test.ts tests/enhancement_e3_revision_notes.test.ts tests/phase3_streak_assignment_retry.test.ts tests/test_builder.test.ts tests/scoring_engine.test.ts tests/enhancement_e5_exam_analytics.test.ts tests/phase4_answer_keys_and_rescore.test.ts tests/phase4_paper_registry.test.ts tests/phase6_m7_analytics.test.ts tests/phase3_estimation_engine.test.ts tests/export.test.ts tests/phase3_alerts_and_email.test.ts tests/enhancement_e6_calibration_analytics.test.ts tests/enhancement_e8_reporting_upgrades.test.ts tests/phase6_m9_content_ops.test.ts",
+    "test:perf": "node scripts/check_perf_budget.cjs && vitest run tests/phase4_synthetic_performance.test.ts tests/phase8_synthetic_load_test.test.ts tests/regression_budget.test.ts",
+    "test:pipeline": "vitest run tests/phase6_m8_accessibility.test.ts tests/phase6_m6_pwa.test.ts tests/phase6_m4_translations.test.ts tests/import_pdf.test.ts tests/imported_jee_mocks.test.ts tests/syllabus_import_validation.test.ts tests/vercel_routing.test.tsx",
+    "test:all": "vitest run && node scripts/check_perf_budget.cjs && node scripts/audit_rls.cjs && node scripts/full_secret_scan.cjs",
+    "audit:nav": "node scripts/nav_crawl.cjs",
+    "audit:perf": "node scripts/check_perf_budget.cjs",
+    "audit:screens": "node scripts/capture_qa_screens.cjs",
+    "health": "node scripts/health_check.cjs",
+    "ci": "npm run health && npm run build && npm run audit:perf && npm test"
+  },
+  "dependencies": {
+    "katex": "^0.16.22",
+    "lucide-react": "^0.469.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.1.1",
+    "uuid": "^11.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/katex": "^0.16.7",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@types/uuid": "^10.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "playwright": "^1.65.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.5",
+    "vitest": "^3.0.4"
+  }
+}

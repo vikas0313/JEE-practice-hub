@@ -1,0 +1,743 @@
+{
+  "source": "JEE_PYQ_Chapterwise_Master_Index_2002-2026.pdf (research cut-off 15 Nov 2026)",
+  "note": "Chapter names only. Topics are empty and must be filled by the monitor. Confirm every chapter against the current NTA JEE Main syllabus before use.",
+  "chapters": [
+    {
+      "id": "PHY-001",
+      "subject": "Physics",
+      "group": "Units & foundations",
+      "chapter": "Units, dimensions, significant figures and errors",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-002",
+      "subject": "Physics",
+      "group": "Units & foundations",
+      "chapter": "Mathematical tools / vectors",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-003",
+      "subject": "Physics",
+      "group": "Units & foundations",
+      "chapter": "Experimental skills and practical physics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-004",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Motion in a straight line",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-005",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Motion in a plane, projectile and relative motion",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-006",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Circular motion",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-007",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Newton's laws of motion and friction",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-008",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Work, energy and power",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-009",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Centre of mass, momentum and collisions",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-010",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Rotational motion and rolling",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-011",
+      "subject": "Physics",
+      "group": "Mechanics",
+      "chapter": "Gravitation",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-012",
+      "subject": "Physics",
+      "group": "Properties of matter and thermal physics",
+      "chapter": "Mechanical properties of solids / elasticity",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-013",
+      "subject": "Physics",
+      "group": "Properties of matter and thermal physics",
+      "chapter": "Fluid mechanics, viscosity, buoyancy and surface tension",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-014",
+      "subject": "Physics",
+      "group": "Properties of matter and thermal physics",
+      "chapter": "Thermal properties, calorimetry and heat transfer",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-015",
+      "subject": "Physics",
+      "group": "Properties of matter and thermal physics",
+      "chapter": "Kinetic theory of gases",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-016",
+      "subject": "Physics",
+      "group": "Properties of matter and thermal physics",
+      "chapter": "Thermodynamics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-017",
+      "subject": "Physics",
+      "group": "Oscillations, waves and optics",
+      "chapter": "Simple harmonic motion",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-018",
+      "subject": "Physics",
+      "group": "Oscillations, waves and optics",
+      "chapter": "Waves and sound",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-019",
+      "subject": "Physics",
+      "group": "Oscillations, waves and optics",
+      "chapter": "Ray optics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-020",
+      "subject": "Physics",
+      "group": "Oscillations, waves and optics",
+      "chapter": "Wave optics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-021",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Electrostatics and Gauss law",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-022",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Electric potential and capacitance",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-023",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Current electricity",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-024",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Moving charges and magnetism",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-025",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Magnetism and matter",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-026",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Electromagnetic induction",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-027",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Alternating current",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-028",
+      "subject": "Physics",
+      "group": "Electricity and magnetism",
+      "chapter": "Electromagnetic waves",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-029",
+      "subject": "Physics",
+      "group": "Modern physics",
+      "chapter": "Dual nature of radiation and matter",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-030",
+      "subject": "Physics",
+      "group": "Modern physics",
+      "chapter": "Atoms and atomic physics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-031",
+      "subject": "Physics",
+      "group": "Modern physics",
+      "chapter": "Nuclei and radioactivity",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "PHY-032",
+      "subject": "Physics",
+      "group": "Modern physics",
+      "chapter": "Semiconductors and electronic devices",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-033",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Some basic concepts, mole concept and stoichiometry",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-034",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Atomic structure",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-035",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Chemical thermodynamics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-036",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Chemical and ionic equilibrium",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-037",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Redox reactions",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-038",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Solutions and colligative properties",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-039",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Electrochemistry",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-040",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Chemical kinetics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-041",
+      "subject": "Chemistry",
+      "group": "Physical Chemistry",
+      "chapter": "Gaseous state / states of matter",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "CHE-042",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "Classification of elements and periodicity",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-043",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "Chemical bonding and molecular structure",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-044",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "Hydrogen and s-block elements",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "CHE-045",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "p-block elements",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-046",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "d- and f-block elements",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-047",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "Coordination compounds",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-048",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "General principles of isolation of metals / metallurgy",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "CHE-049",
+      "subject": "Chemistry",
+      "group": "Inorganic Chemistry",
+      "chapter": "Qualitative analysis and practical inorganic chemistry",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-050",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Purification and characterisation of organic compounds",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-051",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Some basic principles of organic chemistry (GOC)",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-052",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Hydrocarbons: alkanes, alkenes, alkynes and arenes",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-053",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Organic compounds containing halogens",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-054",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Alcohols, phenols and ethers",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-055",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Aldehydes and ketones",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-056",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Carboxylic acids and derivatives",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-057",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Organic compounds containing nitrogen / amines",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-058",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Biomolecules",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-059",
+      "subject": "Chemistry",
+      "group": "Organic Chemistry",
+      "chapter": "Practical organic chemistry",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "CHE-060",
+      "subject": "Chemistry",
+      "group": "Legacy-only / syllabus-check",
+      "chapter": "Solid state",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "CHE-061",
+      "subject": "Chemistry",
+      "group": "Legacy-only / syllabus-check",
+      "chapter": "Surface chemistry",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "CHE-062",
+      "subject": "Chemistry",
+      "group": "Legacy-only / syllabus-check",
+      "chapter": "Polymers",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "CHE-063",
+      "subject": "Chemistry",
+      "group": "Legacy-only / syllabus-check",
+      "chapter": "Chemistry in everyday life",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "CHE-064",
+      "subject": "Chemistry",
+      "group": "Legacy-only / syllabus-check",
+      "chapter": "Environmental chemistry",
+      "syllabus_status": "verify_current_syllabus",
+      "topics": []
+    },
+    {
+      "id": "MAT-065",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Sets, relations and functions",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-066",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Complex numbers",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-067",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Quadratic equations",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-068",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Matrices",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-069",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Determinants",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-070",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Permutations and combinations",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-071",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Binomial theorem",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-072",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Sequences and series",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-073",
+      "subject": "Mathematics",
+      "group": "Algebra",
+      "chapter": "Statistics",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-074",
+      "subject": "Mathematics",
+      "group": "Trigonometry",
+      "chapter": "Trigonometric ratios, identities and equations",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-075",
+      "subject": "Mathematics",
+      "group": "Trigonometry",
+      "chapter": "Inverse trigonometric functions",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-076",
+      "subject": "Mathematics",
+      "group": "Trigonometry",
+      "chapter": "Properties of triangles",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-077",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Limits",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-078",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Continuity and differentiability",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-079",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Differentiation",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-080",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Applications of derivatives",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-081",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Indefinite integration",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-082",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Definite integration",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-083",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Area under curves",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-084",
+      "subject": "Mathematics",
+      "group": "Calculus",
+      "chapter": "Differential equations",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-085",
+      "subject": "Mathematics",
+      "group": "Coordinate geometry",
+      "chapter": "Straight lines",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-086",
+      "subject": "Mathematics",
+      "group": "Coordinate geometry",
+      "chapter": "Circles",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-087",
+      "subject": "Mathematics",
+      "group": "Coordinate geometry",
+      "chapter": "Parabola",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-088",
+      "subject": "Mathematics",
+      "group": "Coordinate geometry",
+      "chapter": "Ellipse",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-089",
+      "subject": "Mathematics",
+      "group": "Coordinate geometry",
+      "chapter": "Hyperbola",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-090",
+      "subject": "Mathematics",
+      "group": "Vectors and 3D geometry",
+      "chapter": "Vector algebra",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-091",
+      "subject": "Mathematics",
+      "group": "Vectors and 3D geometry",
+      "chapter": "Three-dimensional geometry: lines and planes",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    },
+    {
+      "id": "MAT-092",
+      "subject": "Mathematics",
+      "group": "Probability",
+      "chapter": "Probability and conditional probability",
+      "syllabus_status": "listed_in_guide",
+      "topics": []
+    }
+  ]
+}
+

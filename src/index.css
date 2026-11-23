@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-50 text-gray-900 antialiased;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* KaTeX overrides for mobile */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.katex {
+  font-size: 1.05em;
+}
+
+/* Stopwatch colors */
+.stopwatch-normal { @apply text-green-600; }
+.stopwatch-amber  { @apply text-amber-500; }
+.stopwatch-red    { @apply text-red-600; }
+
+/* ============================================================
+   Module E9: Visual Polish, Dark Mode & Accessibility
+   ============================================================ */
+
+/* Font Size Scaling */
+html[data-font-size="large"] {
+  font-size: 112.5%;
+}
+
+html[data-font-size="xlarge"] {
+  font-size: 125%;
+}
+
+/* High Contrast Mode */
+html.high-contrast {
+  filter: contrast(125%);
+}
+
+/* Reduced Motion Mode */
+html.reduced-motion *,
+html.reduced-motion *::before,
+html.reduced-motion *::after {
+  animation-duration: 0.001ms !important;
+  transition-duration: 0.001ms !important;
+}
+
+/* Dark Mode Theme */
+html.dark body {
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+html.dark header.bg-white {
+  background-color: #1e293b !important;
+  border-color: #334155 !important;
+}
+
+html.dark .bg-white {
+  background-color: #1e293b;
+  color: #f8fafc;
+}
+
+html.dark .bg-gray-50 {
+  background-color: #0f172a;
+}
+
+html.dark .border-gray-200 {
+  border-color: #334155;
+}
+
+html.dark .border-gray-100 {
+  border-color: #1e293b;
+}
+
+html.dark .text-gray-900 {
+  color: #f8fafc;
+}
+
+html.dark .text-gray-800 {
+  color: #f1f5f9;
+}
+
+html.dark .text-gray-700 {
+  color: #e2e8f0;
+}
+
+html.dark .text-gray-600 {
+  color: #cbd5e1;
+}
+
+html.dark .text-gray-500 {
+  color: #94a3b8;
+}
+
+/* HARD INVARIANT: NTA Exam CBT Interface STRICTLY EXEMPT FROM THEME OVERRIDES */
+.nta-cbt-container,
+.nta-cbt-container * {
+  /* Retains exact official NTA colours and contrast */
+  filter: none !important;
+}
