@@ -96,11 +96,19 @@ export default function Students() {
 
   useEffect(() => {
     loadData();
+    const handleSync = () => loadData();
+    window.addEventListener('storage', handleSync);
+    window.addEventListener('active-student-changed', handleSync);
+    return () => {
+      window.removeEventListener('storage', handleSync);
+      window.removeEventListener('active-student-changed', handleSync);
+    };
   }, []);
 
   const handleSelectStudent = (id: string) => {
     setActiveSelectedStudentId(id);
     setSelectedStudentId(id);
+    window.dispatchEvent(new Event('active-student-changed'));
     window.dispatchEvent(new Event('storage'));
     setActionSuccess('Switched active student for monitor views.');
     setTimeout(() => setActionSuccess(null), 3000);

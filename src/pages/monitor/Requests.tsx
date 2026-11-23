@@ -37,6 +37,13 @@ export default function Requests() {
 
   useEffect(() => {
     loadData();
+    const handleSync = () => loadData();
+    window.addEventListener('storage', handleSync);
+    window.addEventListener('active-student-changed', handleSync);
+    return () => {
+      window.removeEventListener('storage', handleSync);
+      window.removeEventListener('active-student-changed', handleSync);
+    };
   }, []);
 
   const handleApprove = (student: Profile) => {

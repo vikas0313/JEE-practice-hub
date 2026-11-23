@@ -43,10 +43,12 @@ import {
 
 export default function MonitorDashboard() {
   const [activeStudentId, setActiveStudentId] = useState<string | null>(() => getActiveSelectedStudentId());
+  const [dataVersion, setDataVersion] = useState(0);
 
   useEffect(() => {
     const handleActiveChange = () => {
       setActiveStudentId(getActiveSelectedStudentId());
+      setDataVersion(v => v + 1);
     };
     window.addEventListener('active-student-changed', handleActiveChange);
     window.addEventListener('storage', handleActiveChange);
@@ -56,8 +58,19 @@ export default function MonitorDashboard() {
     };
   }, []);
 
-  const student = useMemo(() => getStudentProfile(activeStudentId || undefined), [activeStudentId]);
-  const settings = useMemo(() => getSettings(), []);
+  const allStudents = useMemo(() => getApprovedStudents(), [activeStudentId, dataVersion]);
+
+  // Ensure an active student is selected if none set
+  useEffect(() => {
+    if ((!activeStudentId || !allStudents.some(s => s.id === activeStudentId)) && allStudents.length > 0) {
+      const targetId = allStudents[allStudents.length - 1].id;
+      setActiveSelectedStudentId(targetId);
+      setActiveStudentId(targetId);
+    }
+  }, [activeStudentId, allStudents]);
+
+  const student = useMemo(() => getStudentProfile(activeStudentId || undefined), [activeStudentId, dataVersion]);
+  const settings = useMemo(() => getSettings(), [dataVersion]);
   const [notices, setNotices] = useState(() => getMonitorNotices().filter(n => !n.read));
 
   const handleDismissNotice = (id: string) => {
@@ -65,8 +78,8 @@ export default function MonitorDashboard() {
     setNotices(prev => prev.filter(n => n.id !== id));
   };
 
-  const studentResponses = useMemo(() => (student ? getResponsesByStudent(student.id) : []), [student]);
-  const visits = useMemo(() => (student ? getAllVisits().filter(v => v.student_id === student.id) : []), [student]);
+  const studentResponses = useMemo(() => (student ? getResponsesByStudent(student.id) : []), [student, dataVersion]);
+  const visits = useMemo(() => (student ? getAllVisits().filter(v => v.student_id === student.id) : []), [student, dataVersion]);
   const allQuestions = useMemo(() => getAllQuestions(), []);
   const allAnswers = useMemo(() => getAllQuestionAnswers(), []);
   const topics = useMemo(() => getTopics(), []);
@@ -240,8 +253,7 @@ export default function MonitorDashboard() {
     return Object.values(map);
   }, [questionLog]);
 
-  const allStudents = useMemo(() => getApprovedStudents(), [activeStudentId]);
-  const allVisits = useMemo(() => getAllVisits(), [activeStudentId]);
+  const allVisits = useMemo(() => getAllVisits(), [activeStudentId, dataVersion]);
 
   const nowMs = Date.now();
   const oneWeekAgoMs = nowMs - 7 * 24 * 3600 * 1000;

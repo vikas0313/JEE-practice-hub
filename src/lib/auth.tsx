@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
 import type { Profile, Role } from './types';
-import { getProfileByEmail, getProfile, getProfiles, seedIfEmpty, updateProfile } from './db';
+import { getProfileByEmail, getProfile, getProfiles, seedIfEmpty, updateProfile, insertRow, setActiveSelectedStudentId } from './db';
 import { seedSyllabusHierarchy, migrateExistingQuestionTags } from './syllabusSeed';
 import { seedRealQuestions } from './seedRealQuestions';
 import { importJeeMocksDb } from './jeeMocksImporter';
@@ -131,11 +131,12 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
           created_at: new Date().toISOString(),
           updated_at: new Date().toISOString(),
         };
-        const profiles = getProfiles();
-        profiles.push(newStudent);
-        localStorage.setItem('jph_table_profiles', JSON.stringify(profiles));
+        insertRow<Profile>('profiles', newStudent);
+        setActiveSelectedStudentId(newStudent.id);
         localStorage.setItem('jph_current_user_id', newStudent.id);
         setUser(newStudent);
+        window.dispatchEvent(new Event('active-student-changed'));
+        window.dispatchEvent(new Event('storage'));
         return { ok: true };
       }
 
@@ -189,6 +190,12 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       } catch (e) {
         console.warn('Password migration failed:', e);
       }
+    }
+
+    if (profile.role === 'student') {
+      setActiveSelectedStudentId(profile.id);
+      window.dispatchEvent(new Event('active-student-changed'));
+      window.dispatchEvent(new Event('storage'));
     }
 
     localStorage.setItem('jph_current_user_id', profile.id);

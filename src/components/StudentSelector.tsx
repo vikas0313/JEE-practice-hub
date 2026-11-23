@@ -19,8 +19,9 @@ export function StudentSelector() {
     if (active && list.some(s => s.id === active)) {
       setSelectedId(active);
     } else if (list.length > 0) {
-      setSelectedId(list[0].id);
-      setActiveSelectedStudentId(list[0].id);
+      const chosen = list[list.length - 1].id;
+      setSelectedId(chosen);
+      setActiveSelectedStudentId(chosen);
     } else {
       setSelectedId(null);
     }
@@ -42,6 +43,7 @@ export function StudentSelector() {
     setSelectedId(newId);
     setActiveSelectedStudentId(newId);
     window.dispatchEvent(new Event('active-student-changed'));
+    window.dispatchEvent(new Event('storage'));
   };
 
   if (approvedStudents.length === 0) {

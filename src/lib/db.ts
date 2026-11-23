@@ -140,6 +140,28 @@ function deleteRow<T extends { id: string }>(table: string, id: string): boolean
 // ---- Profiles ----
 
 export function getProfiles(): Profile[] {
+  // Self-healing migration for legacy 'jph_table_profiles'
+  try {
+    const legacy = localStorage.getItem('jph_table_profiles');
+    if (legacy) {
+      const legacyList = JSON.parse(legacy);
+      if (Array.isArray(legacyList) && legacyList.length > 0) {
+        const currentRows = getTable<Profile>('profiles');
+        let added = false;
+        for (const item of legacyList) {
+          if (item && item.id && !currentRows.some(c => c.id === item.id || (c.email && item.email && c.email.toLowerCase() === item.email.toLowerCase()))) {
+            currentRows.push(item);
+            added = true;
+          }
+        }
+        if (added) {
+          setTable('profiles', currentRows);
+        }
+        localStorage.removeItem('jph_table_profiles');
+      }
+    }
+  } catch {}
+
   const rows = getTable<Profile>('profiles');
   let changed = false;
   const migrated = rows.map(p => {
@@ -207,7 +229,7 @@ export function getStudentProfile(studentId?: string): Profile | null {
     const active = students.find(p => p.id === activeId);
     if (active) return active;
   }
-  return students.find(p => p.status === 'approved') || students[0] || null;
+  return students.find(p => p.status === 'active' || p.status === 'approved') || students[0] || null;
 }
 
 export function getAllStudents(): Profile[] {
