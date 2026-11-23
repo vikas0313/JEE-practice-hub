@@ -65,7 +65,12 @@ const VerifyEmailNotice = lazy(() => import('./pages/auth/VerifyEmailNotice'));
 const Requests = lazy(() => import('./pages/monitor/Requests'));
 const Students = lazy(() => import('./pages/monitor/Students'));
 
+import { startSupabaseAutoSync } from './lib/supabaseSync';
+
 export default function App() {
+  React.useEffect(() => {
+    startSupabaseAutoSync();
+  }, []);
   return (
     <AuthProvider>
       <BrowserRouter>

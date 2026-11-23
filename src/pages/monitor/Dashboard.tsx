@@ -21,6 +21,7 @@ import {
   getActiveSelectedStudentId,
   setActiveSelectedStudentId,
   getApprovedStudents,
+  getPendingStudents,
 } from '../../lib/db';
 import { getIdealTime } from '../../lib/types';
 import {
@@ -70,6 +71,7 @@ export default function MonitorDashboard() {
   }, [activeStudentId, allStudents]);
 
   const student = useMemo(() => getStudentProfile(activeStudentId || undefined), [activeStudentId, dataVersion]);
+  const pendingStudents = useMemo(() => getPendingStudents(), [dataVersion]);
   const settings = useMemo(() => getSettings(), [dataVersion]);
   const [notices, setNotices] = useState(() => getMonitorNotices().filter(n => !n.read));
 
@@ -293,8 +295,31 @@ export default function MonitorDashboard() {
 
   return (
     <div className="space-y-8 max-w-7xl mx-auto pb-16">
+      {/* Pending Student Registrations Notice */}
+      {pendingStudents.length > 0 && (
+        <div className="bg-amber-50 border-2 border-amber-300 rounded-2xl p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-amber-950 shadow-xs">
+          <div className="flex items-center gap-3">
+            <AlertTriangle className="w-5 h-5 text-amber-600 shrink-0" />
+            <div>
+              <div className="font-bold text-sm">
+                {pendingStudents.length} New Student {pendingStudents.length === 1 ? 'Registration' : 'Registrations'} Pending Approval
+              </div>
+              <div className="text-xs text-amber-800">
+                {pendingStudents.map(p => `${p.first_name || p.name} (${p.email})`).join(', ')}
+              </div>
+            </div>
+          </div>
+          <Link
+            to="/monitor/requests"
+            className="px-4 py-2 bg-amber-600 hover:bg-amber-700 text-white text-xs font-bold rounded-xl transition text-center shrink-0 shadow-xs"
+          >
+            Review & Approve Requests
+          </Link>
+        </div>
+      )}
+
       {/* Active Scoped Student Banner */}
-      <div className="bg-gradient-to-r from-indigo-700 via-indigo-800 to-purple-800 text-white p-5 rounded-2xl shadow-sm flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+      <div className="bg-gradient-to-r from-indigo-700 via-indigo-800 to-purple-800 text-white p-5 rounded-2xl shadow-sm flex flex-col lg:flex-row lg:items-center justify-between gap-4">
         <div className="flex items-center gap-3">
           <div className="w-12 h-12 rounded-xl bg-white/10 flex items-center justify-center shrink-0 border border-white/20">
             <User className="w-6 h-6 text-indigo-200" />
@@ -313,7 +338,28 @@ export default function MonitorDashboard() {
             </div>
           </div>
         </div>
-        <div className="flex items-center gap-2">
+
+        <div className="flex flex-wrap items-center gap-3">
+          {allStudents.length > 1 && (
+            <div className="flex items-center gap-2 bg-white/15 px-3 py-1.5 rounded-xl border border-white/25">
+              <span className="text-xs font-medium text-indigo-200">Switch:</span>
+              <select
+                value={activeStudentId || ''}
+                onChange={(e) => handleSwitchStudent(e.target.value)}
+                aria-label="Switch monitored student"
+                className="bg-transparent text-xs font-bold text-white outline-none cursor-pointer pr-1"
+              >
+                {allStudents.map(s => {
+                  const sName = `${s.first_name || s.name || 'Student'} ${s.last_name || ''}`.trim();
+                  return (
+                    <option key={s.id} value={s.id} className="text-gray-900 bg-white">
+                      {sName} ({s.email})
+                    </option>
+                  );
+                })}
+              </select>
+            </div>
+          )}
           <Link
             to="/monitor/students"
             className="px-3.5 py-2 text-xs font-semibold bg-white/10 hover:bg-white/20 text-white rounded-lg border border-white/25 transition-colors"
@@ -322,6 +368,29 @@ export default function MonitorDashboard() {
           </Link>
         </div>
       </div>
+
+      {/* Suggest switching if selected student has 0 activity but another student has practice data */}
+      {totalAttempted === 0 && studentOverviewData.some(s => s.totalQuestions > 0 && s.id !== activeStudentId) && (
+        <div className="bg-indigo-50 border border-indigo-200 rounded-2xl p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs text-indigo-950">
+          <div className="flex items-center gap-2.5">
+            <Zap className="w-4 h-4 text-indigo-600 shrink-0" />
+            <span>
+              <strong>{student?.first_name || student?.name || 'Selected student'}</strong> has no questions recorded yet. Recent practice activity was detected on other students:
+            </span>
+          </div>
+          <div className="flex flex-wrap gap-2">
+            {studentOverviewData.filter(s => s.totalQuestions > 0 && s.id !== activeStudentId).map(s => (
+              <button
+                key={s.id}
+                onClick={() => handleSwitchStudent(s.id)}
+                className="px-3 py-1.5 bg-indigo-700 hover:bg-indigo-800 text-white font-semibold rounded-lg text-xs transition shadow-xs"
+              >
+                View {s.name} ({s.totalQuestions} questions)
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Top Header */}
       <div>

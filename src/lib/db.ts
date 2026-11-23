@@ -113,10 +113,13 @@ function setTable<T>(name: string, data: T[]): void {
   }
 }
 
+import { syncPush } from './supabaseSync';
+
 export function insertRow<T extends { id: string }>(table: string, row: T): T {
   const rows = getTable<T>(table);
   rows.push(row);
   setTable(table, rows);
+  syncPush(table, row);
   return row;
 }
 
@@ -126,6 +129,7 @@ export function updateRow<T extends { id: string }>(table: string, id: string, p
   if (idx === -1) return null;
   rows[idx] = { ...rows[idx], ...patch };
   setTable(table, rows);
+  syncPush(table, rows[idx]);
   return rows[idx];
 }
 
